@@ -8,6 +8,7 @@ This project catalogues datasets annotated for semantic textual similarity. Then
 
 ## Acknowledgement
 We would like to acknowledge following researchers who helped us with the error analysis.
+
 1. Rocío Caro Quintana
 
 
