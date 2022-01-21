@@ -3,7 +3,7 @@ Semantic textual similarity (STS) is a natural language processing (NLP) task wh
 
 This project catalogues datasets annotated for semantic textual similarity. Then we present a comparative evaluation of several deep learning based STS methods in these datasets. In this site, we present the datasets and pre-trained models evaluated in Multilingual Semantic Textual Similarity project.
 
-This project is joint work with [Dr Tharindu Ranasinghe](httphttps://dinel.org.uk/s://tharindu.co.uk/) from the University of Wolverhampton, [Prof Ruslan Mitkov](https://researchers.wlv.ac.uk/R.Mitkov) from the University of Wolverhampton and [Prof Constantin Orăsan](https://dinel.org.uk/) from the University of Surrey.
+This project is joint work with [Dr Tharindu Ranasinghe](https://tharindu.co.uk/) from the University of Wolverhampton, [Prof Ruslan Mitkov](https://researchers.wlv.ac.uk/R.Mitkov) from the University of Wolverhampton and [Prof Constantin Orăsan](https://dinel.org.uk/) from the University of Surrey.
 
 
 
