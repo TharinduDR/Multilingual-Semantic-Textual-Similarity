@@ -1,0 +1,926 @@
+	sentence_1	sentences_2	similarity
+0	Letadlo Boeing havarovalo v Rusku, 50 mrtvých.	Letadlo Boeing havarovalo v ruském městě Kazaň, 50 mrtvých.	3.8
+1	Šokující tah, Obama odložil útok na Sýrii.	Obama odložil útok na Sýrii.	4.6
+2	Japonský PM rozpouští sněmovnu pro volby	Írán a světové mocnosti jsou připravení vést jaderné rozhovory	0.0
+3	Palestinský diplomat zraněn při výbuchu v Praze	Palestinský velvyslanec zraněn při výbuchu apartmánu	4.0
+4	Libanonská obchodní stávka na protest na politické slepé uličky.	Tuniský prezident říká, sebejistota může přejít v politickou krizi.	0.6
+5	Francie varuje před extrémisty benefitujícími z Egyptského násilí	Francie straší, že extrémisté mohou těžit z Egyptského násilí	4.4
+6	Putin vyhrál ruské prezidentské volby	V ruských prezidentských volbách začíná hlasování	1.0
+7	Zemětřesení o síle 6.8 stupňů zasáhlo Šalamounovo ostrovy.	Rozsáhlé zemětřesení o síle 6.3 zasáhlo Šalamounovo ostrovy: USGS.	3.2
+8	Zimmerman zastaven za překročení rychlosti v Texasu, propuštěn s varováním.	Zimmerman zastavil v Texasu, kvůli rychlé jízdě, dostal varování.	5.0
+9	Bývalý důstojník LAPD hledán kvůli Irvine vraždám.	Bývalý důstojník CIA odsouzen k 30 měsícům vězení za úniku informací.	0.0
+10	Sedm světových pohárů v rámci Keňské Äôs	Střed zájmů v otevřeném soudním řízení o smrti mladého muže v Äôs	0.0
+11	Svět posílá humanitární pomoc poničeným Filipínám	Tajfun Haiyan: Svět posílá pomoc na poničené Filipíny	5.0
+12	Prezident Malediv odstupuje po policejní vzpouře, protestestech	Prezident Malediv odstupuje po týdnech protestů	3.4
+13	Filipíny zadržely druhého senátora kvůli korupci.	Filipíny se vzpamatovávají po silném tajfunu.	1.4
+14	Britský teenager zabit pádem z hotelu v Magaluf.	Britský teenager zabit pádem v magalufském hotelu.	5.0
+15	Egyptský soud zvažuje propuštění Mubaraka.	Egyptský soud nařídil propustit Mubaraka.	3.4
+16	Čínské akcie pomalu rostou po ekonomické schůzce.	Čínské akcie pomalu porostou ve středu.	3.4
+17	Zemětřesení o velikosti 6,3 zasáhlo Taiwan.	Zemětřesení o velikosti 7,7 zasáhlo Pákistán.	1.2
+18	Americká vojenská přítomnost ve východní Asii	Vojenská přítomnost NATO uprostřed ruské hrozby	1.2
+19	Sýrští rebelové přesunují velení od Turecka do Sýrie	Volná syrská armáda přesunuje velitelství z Turecka do Sýrie	3.8
+20	"""Zatykač"" na Maledivského ex-prezidenta"	Maledivy vydaly zatykač na bývalého prezidenta	4.5
+21	Arméni volili v parlamentních volbách	Arménské parlamentní hlasování, test pro prezidenta	3.2
+22	Fotbalový rozhodčí napadený hráčem umírá.	Policie: Utažský fotbalový rozhodčí napadený hráčem umírá.	4.2
+23	Může USA věřit Sýrii, v předání chemických zbraní?	USA říká, že Sýrie může použít plyn sarin v chemických zbraních.	1.0
+24	Zemětřesení o velikosti 6.2 otřásá Sarangani.	Zemětřesení o velikosti 4.3 otřásá jihozápadní Čínou.	2.0
+25	2 zabití, 11 zraněných při útocích v Iráku.	15 zabito, 90 zraněno při nedávných útocích v Iráku.	2.2
+26	Bombardování, střety v Sýrii pokračují	Bombové útoky, střety zatímco Syrská opozice žádá zbraně	3.4
+27	Palestinští vězni přijeli na Muqatu v Ramallah.	Pákistánští vězni napadeni ve vězení v Jammu.	1.0
+28	Tajwanská ekonomika vzrostla o 2.27% během druhého čtvrtletí.	Růst Čínské ekonomiky se zastavil na 7.8% za poslední čtvrtletí.	1.0
+29	Indonéské protiteroristické komando zabilo dva podezřelé ozbrojence	Indonéská policie zastřelila podezřelé militanty na Bali	3.2
+30	Čínská vláda slibuje zlepšení ekonomiky	Čínský premiér Wen slibuje vytváření pracovních míst	3.2
+31	Počet obětí letecké havárie v Rusku stoupá.	Počet obětí autobusové nehody v Itálii se vyšplhal na 39 obětí.	0.0
+32	Brahimi se omlouvá Sýrii nad nedostatkem progresu ohledně míru.	Prostředník se omlouvá Sýrii za nedostatek progresu ohledně míru.	3.8
+33	Útoky Talibanu zabili v Afghánistánu 17 civilistů.	Při sérii útoků v Afghánistánu zemřelo 10 policistů.	1.4
+34	Akcie rostly brzy po řecké dohodě, poté se růst zastavil	Akcie se zvýšily po řecké dohodě	3.6
+35	Nejstarší muž na světě umřel ve 116.	Japonsko: nejstarší muž na světě umřel ve věku 116 let.	4.6
+36	US rozpoznává syrskou opozici.	Rusko pozvalo syrskou opozici na diskuzi.	2.0
+37	Nadal vynechá Australian Open, kvůli nemocnému žaludku.	Rafael Nadal bude chybět na Australian Open.	3.4
+38	Královna Beatrix z Nizozemska odstupuje kvůli synovi.	Královna Beatrix z Nizozemska odstupuje ve prospěch syna.	5.0
+39	100 zabito v novém Dárfúru při kmenových střetech.	"""9 mrtvých"" v novém Dárfúru při kmenových střetech."	2.8
+40	Egypt vyzývá k více protestům.	Počet obětí z Egyptských protestů vzrostl na 49.	1.4
+41	Íránský prezident odsuzuje použití chemických zbraní v Sýrii.	Vyšetřování údajného použití chemických zbraní v Sýrii.	1.6
+42	Sandy udeřil ze severo-východu, nejméně 18 mrtvých, 7,4 milionu bez proudu	Bouře na východě Spojených států zanechaly 2 mrtvé ve Va., 2 miliony bez proudu	2.6
+43	Německý vyslanec je optimistický ohledně rozhovorů Íránu a G5	írán ‚opatrně optimistický‘ ohledně budoucích jaderných rozhovorů	1.4
+44	Čínský prezident se setká s řeckým premiérem, výzva k silnějšímu partnerství	Čínský prezident se setká s indickým víceprezidentem	1.8
+45	Indické akcie otevírají rovné.	Indické akcie otevírají nízko.	3.6
+46	USA vyloučila Venezuelské diplomaty v řadě.	USA vyloučila Venezuelské diplomaty.	4.4
+47	Vůdce Ukrajiny slibuje krizové rozhovory	Vůdce Ukrajiny slibuje krizové rozhovory	5.0
+48	Green Lantern se znovu představuje jako homosexuál v DC komiksech	Green Lantern se znovu objevuje jako homosexuální superhrdina	4.0
+49	BBC veterán Hall přiznává sexuální zneužívání dětí.	Stuart Hall přiznává sexuální útoky na děti.	3.4
+50	Muž byl obviněn poté co byl MP zraněn při útoku	Muž obviněn z vraždy v bytě	1.4
+51	Dva stopaři Santy soupeři letošní Vánoce.	Španělsko vrací hodiny zpět na siestu.	0.0
+52	3 mrtví, 1 zraněný při střelbě v přímořském motelu v Jižní Karolíně	4 mrtví, 30 zraněných při železniční nehodě blízko Moskvy	0.2
+53	USA, Čína selhaly v nápravě vazeb.	Čína: pokles v nasazení, jak se víra k nalezení po pohřešovaných se rozplývá.	0.4
+54	Izraelští velvyslanci předvoláni kvůli plánům na dohodu.	Británie předvolala izraelského velvyslance kvůli dohodě.	2.5
+55	Zřícení budovy v Bangladéši má na svědomí 362 mrtvých.	Počet obětí stavebního kolapsu budovy v Bangladéši stoupá na 580 mrtvých.	3.6
+56	Snowden 'získán uprchlický doklad od Ecuadoru'.	Snowden připraven odletět z Moskvy.	1.2
+57	US skládá bomby na velký bariérový útes.	US vojsko torpéduje bomby blízko australského velkého bariérového útesu	3.8
+58	Čínský akciový index v budoucnu poroste - 4. prosince.	Čínský akciový index v budoucnu klesne - 24. ledna.	2.2
+59	Britský náctiletý byl zabit pádem z hotelu Magaluf	 Britský náctiletý byl zabit při pádu z hotelu Magaluf	5.0
+60	2 mrtví, 2 zranění po střelbě v Nevadě na střední škole.	Nevada: 2 mrtví, 2 zranění po střelbě na střední škole.	5.0
+61	Obama se setká s rodinou Mandely.	Obama se setká se Zumou a vzdá hold Mandelovi.	3.0
+62	18 lidí uvězněno po výbuchu v ruském uhelném dolu.	Výbuch zabil deset lidí v ruském uhelném dolu.	2.8
+63	SC odmítá žádost vlády o přezkum případu daňového poplatku u Vodafone	SC odmítá návrh na petici k verdiktu o daňových poplatcích Vodafone	4.4
+64	Pákistánská letadla bombardují 'úkryty Talibánu'.	Pákistán požaduje zastavení dodávání vojenských zásob Sýrii.	1.6
+65	Weiner zůstane v úřadě starosty NYC po přiznání nového skandálu se sextingem.	Weiner mávnul rukou nad posledním skandálem online sexu.	3.0
+66	Bombové útoky zabili 53 lidí v Damašku.	Bombové útoky zabili 13 civilistů v irácké metropoli.	1.4
+67	Prince Charles 'srovnává Putina s Hitlerem'.	Prince Charles 'srovnává Vladimíra Putina s Adolfem Hitlerem'.	5.0
+68	Francie se zavazuje vojenskou pomocí v Mali Most.	Francouzské podpůrné vojenské operace v Mali.	1.4
+69	Německý vyslanec je optimistický ohledně vyjednávání mezi Íránem a G5+1.	Irán je 'opatrný' ohledně budoucích vyjednávání o jaderném programu.	1.4
+70	Thajští protestanti zabraňují hlasování; 1 mrtvý po násilí.	Thajští protestanti blokují volební místnosti v Bangkoku.	2.8
+71	Snowden žádá, aby mohl zůstat v Rusku.	Snowden vydává první Ruská videa.	1.4
+72	Egyptské muslimské bratrstvo odmítá ustoupit	Egyptský soud odsoudí vůdce muslimského bratrstva k doživotí ve vězení	1.4
+73	Izrael zadržuje 37 Palestinců zatímco zatýkací operace pokračuje.	Izrael kritizuje palestinský postoj k imigrantům.	1.2
+74	Usain Bolt vyhrál 200m - Steven Howard reakce	Mobilní zisky Facebooku pohánějí růst výnosů: reakce	0.2
+75	Aso odmítá odstoupit kvůli komentářům nacistů.	Španělský předseda vlády odmítá rezignovat kvůli korupčnímu skandálu.	0.2
+76	Bomba v autě na švédském konzulátu v Libyjském Benghází, žádné ztráty.	Bomba v autě zasáhla švédský konzulát v Benghází, nikdo nebyl zraněn.	4.8
+77	"Izraelský bývalý špion varuje před ""mesiášskou"" íránskou válkou"	Izraelský bývalý špionážní šéf: nevěřte vedení nad Íránem - video	3.0
+78	Pokles zboží na trhu spojených států se zklidňuje.	Výprodej technologií snižuje obsah Asijského trhu.	0.4
+79	Tokyo hostí hry v roce 2020	Tokyo vyhrálo závod o pořádání Olympijských her v roce 2020	4.8
+80	Čínské akcie při pátečním poledni uzavřely výše	Čínské akcie v pátek otevřely níže	1.0
+81	Rusko tvrdí, že překazilo možný teroristický útok	"Rusko říká, že balistické ""objekty"" byly vypáleny ze Středomoří"	1.4
+82	2 policajti zabiti po výbuchu ve východním Afganistánu.	Minimálně 28 lidí zemřelo po výbuchu v čínském uhlovém dole.	0.4
+83	Indické media: summit Commonwealthu.	Indické PM uráží summit Commonwealthu.	2.8
+84	DNA ledního medvěda může pomoci v boji proti obezitě	Studie polárního medvěda může urychlit boj proti obezitě	4.8
+85	Francie varuje před radikály (extremisty) těžícími z egyptských násilností.	Francie se obává, že extrémisté budou těžit z egyptských násilností.	4.4
+86	Evropské akcie poskočili s nárůstem Čínských stimulů	Ceny ropy stoupají v naději stimulů	0.8
+87	Alžírský prezident je na terapii po infarktu: státní media.	Bulharský prezident zkouší zlomit pat ve volbách.	0.4
+88	UN zve Írán na syrskou mírovou konferenci.	UN: Írán pozván zúčastnit se syrské mírové konference.	5.0
+89	Čínský yuan posiluje na 6.168 vůči dolaru, pondělí.	Čínský yuan posiluje na 6.1696 vůči dolaru, čtvrtek.	4.2
+90	Dva mrtvý po izraelském útoku na Gazu: medici	5 mrtvých při úderech na Gazu, radikálové ostřelují Izrael	2.0
+91	Hodnota čínských akcií v pátek mírně klesne.	Hodnota čínských akcií ve středu mírně poroste.	1.8
+92	Abdullah Widens vede v afgánských prezidentských volbách	Blízko afgánského presidentského paláce byly slyšet exploze	1.0
+93	Venezuelský Chávez je potřetí na Kubě z důvodu léčby proti rakovině,	Venezuelský vůdce se z léčebných důvodů vrací na Kubu	3.2
+94	HRW: Jordán vrací palestinské uprchlíky ze Sýrie	zpráva: Jordán je zaujatý proti Palestincům ze Sýrie	2.2
+95	"Švýcarského turistu ""znásilnili"" v Indii."	Švýcarského turistu znásilnil gang v Indii, říká policie.	5.0
+96	Japonsko po kritice USA hájí lov delfínů	Japonsko hájí lov delfínů po kritice z USA	5.0
+97	Blizzard zasáhl severovýchod USA, pět mrtvých, 700,000 bez energie.	Blizzard spráskal severovýchod USA, silnice uzavřeny.	2.2
+98	Čínské akcie ve středu zahájují níže	Čínské akcie v pondělí končí níže	2.6
+99	ABVP demonstranti se střetli s policií v Jantar Mantar, házeli kameny.	Demonstranti se střetli s policií v Jantar Mantar, 5 osob zadrženo.	2.8
+100	Hráčem udeřený fotbalový rozhodčí zemřel	Policie: Utažský fotbalový sudí po hráčově úderu zemřel	4.2
+101	Protest proti zásahu amerických dronů v Paku odložen.	6 zabitých při útoku U.S. dronu v severozápadním Pákistánu.	1.4
+102	Filipíny zadržely druhého senátora kvůli korupci	Filipínách se vzpamatovávají po silném tajfunu	1.4
+103	Boj o Malijské město odráží islamistické taktiky.	EU trénuje armádu Mali k boji proti severním islamistickým ozbrojencům.	2.0
+104	Egyptští demonstranti dávají Morsi ultimátum k rezignaci	Ukrajinští demonstranti se nově střetli s policií	0.4
+105	3 Čínští turisti zabiti v Pákistánu.	Sedm únosců zabito v jižní Nigerii.	0.4
+106	Dva mrtvý v Sýrii po násilnostech od okamžiku kdy OSN začala monitorovat zemi	Dvouletý zákaz pro Contadora za doping	0.0
+107	Třepení společnosti na okrajích.	Zarovnání starých TV způsobuje trhliny na okrajích.	0.4
+108	Ukrajinští protestanští vůdci jmenují ministry, Ruské jednotky jsou na pozoru.	Ukrajina odmítá jednat proti Ruské 'Provokaci'.	1.2
+109	Španělsku míra nezaměstnanosti na novém maximu	Nezaměstnaných ve Španělsku přibylo na nové maximum	4.2
+110	Snowden narazil na překážky v pátrání po Azylu.	Snowden narazil na překážky v pátrání po Azylu.	5.0
+111	Počet mrtvých po zemětřesení na Filipínách stoupl na 185.	Počet mrtvých po zemětřesení na Filipínách stoupl na 144.	3.6
+112	Ehud Olmert, bývalý premiér odsouzen na 6 let vězení za korupci.	Ehud Olmert odsouzen na šest let v Izraeli.	3.8
+113	Řecké dluhopisy mají největší restrukturalizaci dluhů v historii	Řecko zajisťuje největší zadlužení v historii	2.8
+114	Indická policie shromáždila všech 5 podezřelých z případu mumbajského znásilnění.	Mumbajská policie zatkla pátého podezřelého z případu hromadného znásilnění	3.8
+115	11 lidí zabito při útoku na čínskou policejní stanici.	Jedenáct lidí zabito při útoku na čínskou policejní stanici.	5.0
+116	Putin podepisuje krymský dodatek úmluvy.	09:32 Putin ukončuje anexi Krymu.	3.6
+117	Rebelové zabíjejí 21 civilistů v syrské obci Alawite.	Bomba zabíjí 18 civilistů v Afghánistánu.	1.2
+118	Thajští protestující pronikli do armádního ústředí.	Thajští protestující zaútočili na armádní ústředí.	4.6
+119	Čínský ledoborec změnil kurz směrem k podezřelým objektům.	Číňané prohledávající letadlo našli 'podezřelý objekt'.	2.0
+120	Nigerijská univerzitní napadnuta ozbrojenci	 Nigérie: Bombový útok na univerzitu na severu	2.2
+121	Policie se střetla s mládeží po protestu proti Morsi.	Egypt: Policie se střetla s Morsi sympatizanty.	2.8
+122	Manželka indického ministra zemřela 'nepřirozenou smrtí' po zvěstech ohledně milostného poměru 	Ministrova manželka zemřela nepřirozeně	3.8
+123	Paul Tucker z Banky Anglie je spojován se skandálem Libor	Banka Anglie odmítá nařízení manipulací se sazbou	2.8
+124	Mírné zemětřesení otřásá severozápadním Pákistánem.	Mírné zemětřesení zasáhne jižní Pákistán.	3.0
+125	De Blasio složil přísahu jako starosta New Yorku, nástupce Bloomberga.	Bill De Blasio složil přísahu jako starosta New Yorku, nástupce Michaela Bloomberga.	5.0
+126	Malajsie zadržuje australského senátora na letišti.	Malajsie zadržuje australského zákonodárce na letišti.	4.0
+127	Obama se zaměří na ekonomiku ve Státě unie.	Factbox: Co je třeba hledat v Obamově řeči o Státu unie.	2.2
+128	Zpoždění raketového testu zvedlo v USA napětí.	William Hague: rozhodnutí zastavit raketový test v USA 'citlivé'.	3.4
+129	Oheň v Beijingu zabil 10 osob	Oheň v Beijingu zabil deset osob	5.0
+130	Annan návštíví syrské uprchlíky v Turecku, úterý	Annan navštíví syrské uprchlíky v Turecku před návštěvou Íránu	3.8
+131	Nejvyšší čínský politický poradce navštívil řeckého premiéra	Vrcholný čínský politický poradce navštívil jemenského prezidenta	3.4
+132	Nelson Mandelovo vzpomínková bohoslužba.	Nelson Mandela umírá: živé zpravodajství	2.4
+133	Únik kapalného amoniaku zabil v Šanghaji 15 lidí.	Únik kapalného amoniaku zabil v Šanghaji nejméně 15 lidí.	4.6
+134	Google vypouští internetové zářící balóny.	Google hraje mezinárodní daňovou hru.	1.0
+135	Obrázky dne: 7. srpna 2013.	Obrázky dne: 11. dubna 2013.	2.8
+136	Francouzská vojska se blíží na Timbuktu.	Francouzská vojska kontrolují přístup do Timbuktu.	3.6
+137	Zpráva Severoamerického prezidenta v novinách World Press Freedom Day.	Pákistán označil noviny World Press Freedom Day.	2.2
+138	Severní Korea zastavuje práci na společné průmyslové zóně.	Severní Korea blokuje přístup do společné průmyslové zóny.	4.0
+139	Základy Jihoafrické republiky jsou postaveny na památce Nelsona Mandely	Australští politici truchlí nad smrtí Nelsona Mandely	1.3
+140	12 mrtvých a desítky zraněných při výbuchu plynu v Doha	 26 mrtvých, včetně 8 dětí, zabito syrskou střelou	0.6
+141	Desítky vystrašených lidí uvězněných po kolapsu budovy v Indii.	Záchranáři se snaží najít 20 stále uvězněných lidí v Indii po kolapsu budovy.	3.0
+142	Severní Korea se vyhýbá nabídce rozhovorů	Severní Korea odpálila 2 rakety	1.2
+143	Jemen: bitva na severu zabito přes 120 lidí. 	Janet Yellen: pět věcí, které byste nemuseli vědět.	0.0
+144	Policie napadena při protestech o Belfastskou vlajku.	Rozhovor s policií, násilí ohledně vlajky.	0.6
+145	Federace se posunula k vyžadování bezpečné komunikace mezi auty	Guatemala převrátila rozsudek bývalého diktátora za genocidu	0.0
+146	Prohlášení mluvčího zastupitelky Catherine Ashtonové o poslední záplavě útoků v Iráku.	Prohlášení mluvčího zastupitelky EU Catherine Ashtonové o obnovení poprav v Iráku.	3.2
+147	Bomba na silnici zabila 5 lidí v Afghánistánu.	Bomba na silnici zabila 3 policisty v Afghánistánu.	3.4
+148	Pakistan hlasoval v rozhodujících volbách	Pákistán po zabití 29 osob při útoku pořádá rozhodující volby	3.4
+149	Poslední vlna proti muslimského násilí v Burmě zapříčinila 1 úmrtí a 10 zraněných.	Světová tisková konference: Smrtící proti muslimská vlna násilí je na vzestupu.	2.6
+150	Taiwan se zatřásl po silném zemětřesení	Čína se otřásla po dvou zemětřeseních	1.2
+151	Londýn 2012 Olympijské slavnostní zahájení: “K zelené a příjemné zemi”	Londýn 2012 Olympiáda: Slavnostní zahájení být “zelená a příjemná země”, říká Danny Boyle	4.2
+152	Armádní tryskáč havaroval v Americe do bytových domů, piloti se katapultovali	Americký armádní tryskáč spadl ve Virginii do bytových domů	3.4
+153	Mugabe prohlášen za vítěze sporných voleb.	Zimbabwe: Mugabe prohlášen za vítěze sporných voleb.	4.0
+154	Venezuelský Hugo Chaves umřel na rakovinu	Hugo Chaves: Venezuelský pracovník pro jednotu	1.8
+155	Palestinský hladovkář, Izrael dosáhl dohody	Palestinský aktivista zadržen pri Izraelském náletu	1.2
+156	5 mrtvých v jihočínském silničním tunelu	02:41 156 mrtvých při čínském zemětřesení	1.2
+157	Hodnota čínských akcií ve středu mírně klesne.	Hodnota čínských akcií v pátek mírně poroste.	2.2
+158	Hlavní opoziční Egypta odmítá prezidentovu výzvu k debatě.	Egyptská opozice zvažuje reakci na výzvu na Morsiho debatu.	3.8
+159	Ehud Olmert, bývalý izraelský premiér, byl odsouzen k šesti letům vězení za korupci	Ehud Olmert byl odsouzen k šesti letům v Izraeli	3.8
+160	Bangladéšský soud odsoudil prvního zákonodárce k trestu smrti za válečné zločiny.	Britský premiér tlačí na Srí Lanku, kvůli válečným zločinům.	1.8
+161	Federální policie bude vyžadovat bezpečnostní komunikaci mezi hlídkovými vozy.	V Guatemale došlo ke zvratu v přesvědčení bývalého diktátora ohledně genocidy.	0.0
+162	Čtyři další lidé zatčeni kvůli největšímu australskému syndikátu na dovoz nelegálního tabáku	Policie se zaměřuje na nelegální tabákový syndikát	2.8
+163	Desítky mrtvých po útoku Talibanu na letovisko	“Indická policie obvinila 3 Íránce z útoku na velvyslanectví”	0.4
+164	Clintonová: USA, Evropa musí dělat více proti tyranům	Clintonová: USA, Evropa musí usilovat o to porazit tyrany	4.4
+165	Yahoo! jmenoval Mayerovou z Google jako CEO: Zpráva	Yahoo jmenoval bývalou zaměstnankyni Google Mayerovou jako CEO	4.2
+166	Jagan Reddy přesunut do nemocnice, energetická krize v Seemandhře pokračuje.	Telangana: Jagan strávil čtvrtek v nemocnici; výpadek v Seemandhře pokračuje.	4.2
+167	Bangladéš vyznamenává dělnické oběti	Maloobchodníci vrátili Bangladéši dohodu o tovární bezpečnosti	2.8
+168	Severní Korea údajně otestovala rakety s krátkým dostřelem.	Severní Korea vystřelila rakety s krátkým dostřelem.	4.0
+169	Izraelský předseda vlády nazval prezidenta Iránu hypokritem.	Řecký předseda vlády obvinil koalici z pokrytectví.	1.2
+170	Zhroucení budovy v Bangladéši, počet obětí dosáhl 540 mrtvých: armáda.	Zhroucení budovy v Bangladéši, ztráty na životech přes 1000 mrtvých.	2.6
+171	Ozbrojenec zabil devět lidí v severozápadním Pákistánu.	Radikálové zabili 6 vojáků v severozápadním Pákistánu.	2.6
+172	Americký teenager zadržen v Chicagu z důvodu nastražení bomby v automobilu ve jménu ‚džihádu‘	Chicágský tenager zatčen v Chicagu z důvodu nastražení bomby	3.4
+173	Americký Senát schválil daňovou skalní dohodu.	"Je to oficiální: Dohoda dosáhla na ""daňový útes""."	3.4
+174	Sebevražedný atentátník zaútočil na pohřeb v Iráku.	Sebevražedný atentátník zaútočil v Sýrii.	1.8
+175	Izrael provádí nálet na Sýrii.	Izrael zahajuje nový nálet proti Sýrii.	4.4
+176	Egyptská policie použila slzný plyn na demonstranty v Káhiře	Policie použila slzný plyn na demonstranty v Káhiře	4.0
+177	V pondělí je třeba pozorně hlídat stavy zásob.	V pondělí je třeba hlídat stavy zásob.	4.0
+178	Francouzský parlament podporuje reformu zákona o prostituci.	Ruský parlament zvažuje zákaz amerických adopcí.	0.8
+179	Vojenská stíhačka spadla do bytového domu	Americká vojenská stíhačka spadla ve Virginii do bytových domů	3.6
+180	Cestující vánoční výletní lodi nakaženi norovirem.	Pohřešovaný cestující výletní lodi je Ambo NSW.	0.0
+181	Pět lidí v Kosovu odsouzeno za obchodování s orgány.	Kosovo: 3 lidi půjdou do vězení za obchodování s orgány.	2.8
+182	Vlna útoků v Iráku zabila přes 95 osob	Sebevražedný útok v severním Iráku zabil 12 osob	1.8
+183	35 militantů zabito v Afghánistánu po nájezdu: oficiálně	12 militantů zabito v Afghánistánu po nájezdu: ministerstvo	2.8
+184	Přátelé Sýrie uznávají opoziční koalici jako legitimní zástupce syrského lidu.	USA, přátelé Sýrie uznávají opozici jako výhradní zástupce.	4.0
+185	Prince Charles 'přirovnává Putina k Hitlerovi'	Prince Charles 'přirovnává Vladimíra Putina k Adolfu Hitlerovi‘	5.0
+186	Obyvatelé Texasu hledají pomoc v kostele po smrtícím výbuchu.	Obyvatelé se vrací do Texasu, místo výbuchu.	2.6
+187	Irán varuje ohledně vojenských zásahů v Iráku.	Exploze poblíž vojenského letiště v Damašku.	0.0
+188	Izraelská armáda se zaměřuje na severní hranici.	Egyptská armáda převezme kontrolu nad Muslimským bratrstvem, podpůrci.	1.6
+189	Google investuje 200 milionů $ v Texasu na větrnou farmu.	Google investuje 200 milionů dolarů do projektu Texaské větrné farmy.	5.0
+190	Americký generál v Afghánistánu je obecně spojován s Petraeus skandálem	Vrchní americký generál je spojován s Petraeus skandálem	3.8
+191	Syrské síly se přesunují opět ovládnout Aleppo	Syrský režim se pokusí opět ovládnout město Aleppo	4.4
+192	& Gt; Kubánský Castro předpokládá CELAC předsednictví.	Kubánský Castro převezme předsednictví CELAC.	5.0
+193	5 zabitých při havárii autobusu v Belgii.	Teenageři mezi 5 mrtvými při autobusové nehodě v Belgii.	3.8
+194	20 členný parlamentní sněm, obchodní tým odjíždí do Indie	Ministr obchodu si bere volno	0.0
+195	Rusko dává počáteční OK pro zákaz amerických adopcí.	Rusko dává počáteční schválení zákazu adopcí.	3.8
+196	Bombový výbuch otřásl nákupním centrem v Nigérii, 12 mrtvých	Bombový výbuch před shromážděním indické opozice zabil 4 osoby	1.4
+197	Obama se chystá obsadit radu FED, Fischera odsouvá na druhou pozici	Obama vyjadřuje ochotu mluvit s GOP o rozpočtu	0.4
+198	Egyptský vůdce ukládá výjimečný stav do 3 měst.	Egyptský prezident vyhlašuje stav nouze ve třech městech.	5.0
+199	Jižní Korea říká, že Severní Korea vystřelila rakety.	Severní Korea vystřelila rakety s krátkým dostřelem.	2.2
+200	Angela Merkelová směřuje k těsné výhře v německých volbách	Nový Malawijský prezident složil slib po sporných volbách	0.4
+201	Jeden mrtvý při kolapsu budovy ve Filadelfii, další vytaženi z trosek	Šest potvrzených mrtvých po kolapsu budovy ve Filadelfii	3.2
+202	Policie zabila střelce, našla tři další mrtvé v Colo. Z domova.	4 mrtví poté, co si policie držela odstup, střelec se zabarikádoval v americkém domě.	2.0
+203	Irák podporuje zákrok Egypta proti příznivcům Morsiho.	Irák podporuje zákrok Egypta proti příznivcům Mohameda Morsiho.	4.8
+204	Vojenské letadlo havarovalo v jižní Francii: úřady	Vojenské letadlo havarovalo v jihovýchodním Turecku, 1 mrtvý	1.0
+205	Severní Korea provádí třetí nukleární test.	Severní Korea potvrzuje třetí nukleární test.	4.6
+206	Írán odmítá tvrzení o chlorových bombách	Írán odmítá podezření MKO na nukleární arzenál	2.4
+207	Čína pokračuje v investičních rozhovorech s Amerikou.	Čína a Tchaj-wan vedou historické rozhovory.	0.8
+208	Thajská policie použila slzný plyn proti demonstrantům.	Brazilský vůdce přerušil mlčení o protestech.	1.0
+209	Nahrávací nastavení jihozápadně po tepelné vně se ukázalo fatální.	Minimálně jeden mrtvý, 40 hospitalizovaných na jihozápadě po tepelné vlně.	4.0
+210	Bomba v autě zabila jednoho a zranila pět lidí v Benghází.	Bomba v autě zasáhla libyjské ministerstvo zahraničí v Benghází.	3.0
+211	Paul Walker, hvězda 'Rychle a Zběsile', zemřel při autonehodě	Paul Walker (40) zemřel: Hvězda Rychle a Zběsile zemřela při autonehodě	4.8
+212	5 věcí, které je dobré vědět o olympijských hrách v Soči	7 věcí, které je dobré vědět o Ethanolu	0.0
+213	38 talibanských militantů zabito v Afghánistánu.	Talibán zaútočil US základnu v Afghánistánu	1.2
+214	Světový pohár živě: Francie Německo 0-0. 	Světový pohár živě: Německo Ghana 0-0.	1.4
+215	2 mrtví v Bangladéši při střetu v průběhu popravy vůdce Jamaata.	Bangladéšský islamistický vůdce popraven.	2.0
+216	Podle Sýrie zabil sebevražedný atentátník 10 v Damašku	Damaškový bombový útok zabíl 10	4.0
+217	Izrael provádí pozemní ofenzívu v Gaze	Izrael spustil pozemní ofenzívu v Gaze	4.8
+218	Dnes v historii 23. dubna.	Dnes v historii 21. ledna.	1.4
+219	Vůdce pákistánského Talibánu Hakimullah Mehsud byl zabit při náletu bezpilotního letounu.	Pákistánský Talibán 'volí nového vůdce' se slibem 'nebývalé' pomsty	1.2
+220	Jerry Sandusky byl shledán vinným ze sexuálního zneužívání dítěte	Sandusky byl shledán vinným ze sexuálního zneužívání dítěte	3.8
+221	Skauti odložili rozhodnutí o přijmutí homosexuality.	Skauti z Ameriky odložili hlasování o zavedení zákazu gayů.	5.0
+222	Hrithik Roshan a manželka Sussanne se rozloučí.	Hrithik Roshan a Sussanne se rozvedou.	4.4
+223	NATO: 2 mezinárodní jednotky byly zabity v Afghánistánu	Tři jednotky NATO byly zabity v Afghánistánu v jeden den	2.2
+224	Ozbrojenec zabil 9 zahraničních turistů a jednoho Pákistánce.	Ozbrojenec zabil 11 zahraničních turistů v Pákistánu.	2.8
+225	Intel McAfee kupuje cloudový síťový Firewall Specialist Stonesoft za 389M $ v hotovosti.	McAfee získal firewall Stonesoft za 389 milionů $.	3.8
+226	Obama rozhodl o Sýrii na poslední chvíli	Obama prosazuje omezené vojenské akce v Sýrii	2.0
+227	Vlna bombových útoků zabila 15 lidí v Iráku.	Automobilové bomby zabily nejméně 49 lidí v Iráku.	2.2
+228	Nové silné zemětřesení zasáhlo poškozený region Pak	Zemětřesení o síle 6.8 v poškozeném pákistánském regionu.	4.4
+229	Rusko tvrdí, že zmařilo možný teroristický čin.	Rusko tvrdí, balistické objekty vystřeleny v Meditarenu.	1.4
+230	Yacimovich žádá kabinet, aby schválil propuštění palestinských vězňů.	Izrael souhlasí s propuštěním 104 palestinských vězňů.	2.0
+231	"PC David Rathband: obavy dvojčete pro jeho ""nejlepšího kamaráda"""	David Miliband: můj bratr a návrat ke staré labouristické straně	0.2
+232	Uplyna lhůta bez nových sankcí Íránu	EU se přiblížila k udělení nových sankcí proti Íránu	1.6
+233	Romney označil Paula Ryana jako spoluběžícího	Romney jmenoval Ryana jako spoluběžícího	5.0
+234	Nejsilnější tajfun v roce 2013 udeřil na Filipínách.	23 pohřešovaných když tajfun Utor zasáhl Filipíny.	2.2
+235	FAA pokračuje v zákazu US letů do Tel Avivu.	FAA ruší zákaz U.S. letů do Tel Avivu.	1.8
+236	Americké volby: Mitt Romney připouští porážku když Barack Obama vyhrává v druhém kole	Romney při telefonickém hovoru připouští zvolení Obamy	4.0
+237	Zpráva presidenta NA Äôse o dni svobody světového tisku	Pákistán se připojil ke dni svobody světového tisku	2.2
+238	Rebelové v Syrské vesnici Alawite zabili 21 civilistů	Bomba v Afgánistánu zabila 18 civilistů	1.2
+239	Akcie v pondělí pod dohledem.	Akcie ve čtvrtek pod dohledem.	3.0
+240	FAA pokračuje v zákazu amerických letů do Tel Avivu	FAA zpřísní zákaz amerických letů do Tel Avivu	1.8
+241	Jak zatýkací akce pokračuje, Izrael zatýká 37 Palestinců	Izrael kritizuje palestinský postoj k osadníkům	1.2
+242	Demoliční práce na stadionu v Don Valley začínají.	Demoliční práce začne na stadionu.	3.2
+243	Syrské síly obsadily pevnost rebelům	Sýrská armáda na severu zabrala pevnost rebelům	4.0
+244	7 mrtvých při střelbě v křesťanské škole	5 zraněných při střelbě ve škole v Ohiu	1.4
+245	Hamás, zákaz smíšených škol vstoupí v platnost.	Hamás, zákaz smíšených škol.	4.2
+246	Při útoku v Iráku bylo zabito 7 osob	Při sérii útoků zahynulo v Iráku 16 osob	3.0
+247	V Pákistánu byli zabiti 3 čínští turisté	V jižní Nigérii bylo zabito sedm únosců	0.4
+248	Tokio bude hostit olympijské hry 2020.	Zápas přidán na olympijské hry v Tokiu 2020.	1.4
+249	Kalifornie požár: 1900 na linkách, jak hasiči pracují na omezení škod (+ video).	Kalifornie požár roste, ale úředníci říkají, že hasiči dělají pokrok.	3.8
+250	Ministři zahraničí EU zemí diskutují zbrojní embargo Sýrie	Ministři zahraničí EU zemí hledají řešení na sýrijských zbraní	3.6
+251	Pohřeb po Bostonském bombovém útoku byl oprávněný	Připraven jít domů: Poslední oběť Bostonských bombových útoků opustila nemocnici	1.0
+252	Akciový index futures vykazuje nižší start	Akciový index futures signalizuje předčasné ztráty	4.4
+253	Čínské akcie ve středu otevřely vysoko	Americké akcie otevřou výše i přes špatný odhad HDP	0.8
+254	Obama se přesune k naplnění federálního úřadu, Fischer bude číslo 2.	Obama je ochotný mluvit s GOP o rozpočtu.	0.4
+255	4 lidé zabiti Americkým dronem v Pákistánu	Útok Americkým dronem v Pákistánu zabil 3 lidi	3.0
+256	Zatčený ruský vrah popírá vazby na Pussy Riot	Desítky zadržených protestantů v ruské televizní věži	0.8
+257	ElBaradei se stal egyptský premiérem	Liberál ElBaradei byl jmenován egyptským premiérem, islamisté pláčou	3.2
+258	Počet obětí havárie italského autobusu stoupá.	Starbucks uvolňuje cestu k vysokoškolskému titulu pro zaměstnance.	0.0
+259	Liberál ElBaradei se stal předsedou Egyptské vlády.	ElBaradei jmenován Egyptským předsedou vlády, islamisté protestují.	3.2
+260	Živě ze světového poháru: Francie 0-0 Německo	Živě ze světového poháru: Něměcko 0-0 Ghana	1.4
+261	Jihokorejský prezident lituje reakce trajektu.	Severokorejský prezident lituje katastrofy trajektu.	4.6
+262	Venezuela vyloučí tři diplomaty USA	Venezuela vyloučí 3 diplomaty USA	5.0
+263	Čínský juan posílil na 6,2689 oproti dolaru.	Čínský juan oslabil na 6,2816 oproti dolaru.	3.0
+264	Syrské síly střílely na autobus s civilisty	Syrské síly, rebelové se střetli v blízkosti Turecka	0.8
+265	Náhled akcií po pondělní uzávěrce	Náhled akcií v pondělí	4.0
+266	Malawi potvrdila smrti prezidenta	Malawi potvrdila smrt prezidenta Mutharika	4.0
+267	Silvestera Stalloneho syn Sone Sage byl nalezen mrtvý v LA	Syn Sylvestera Stalloneho nalezen mrtvý doma	4.2
+268	Rusko odhaluje vazbu na olej v Pacifiku za 30 miliard $.	Rusko odhaluje vazbu na olej v Pacifiku za 25 miliard $.	3.4
+269	Ukrajinský premiér odstoupí uprostřed protestů.	Turecký premiér chce tvrdě zasáhnout proti protestantům.	0.6
+270	Bomba na silnici zabila 10 afghánských civilistů: policie	Bomba na silnici zabila 5 afghánských policistů	2.6
+271	Střelba v Chicagu ukazuje mezery v posílení policie	Střelba v Chicagu ukazuje mezery v posílení policie	5.0
+272	Útok amerického dronu zabil 5 ozbrojenců v Pákistánu	Útok dronem zabil čtyři podezřelé ozbrojence v Pákistánu	3.0
+273	23 lidí zabito při bombardování aut v Iráku.	10 lidí zabito při bombovém útoku v Iráku.	1.6
+274	Izraelci, Palestinci se domlouvají na výměně vězňů.	Izraelští zákonodárci vyzývají k prozkoumání případu vězně X.	1.2
+275	Severní Korea odložila rodinná setkání s Jihem.	"Severní Korea ""odloží"" rodinné svazky s Jižní Koreou."	5.0
+276	Egypt spouští útok proti Sinaijským radikálům	  Egypt zahajuje útok proti Sinaijským povstalcům	5.0
+277	Detroit je zodpovědný za ochranu proti bankrotu: soudce USA.	Detroit je zodpovědný za ochranu proti bankrotu.	4.6
+278	Až 21 lidí, většinou cizinci, zabito při sebevražedném útoku v Kábulu.	Brit mezi mrtvými v Kábulu při sebevražedném útoku.	2.8
+279	Počet mrtvých způsobených zřícením budovy v Jižní Indii vyrostl na 47.	Při zřícení budovy v Jižní Indii zemřeli 4 lidé.	2.8
+280	Nejstarší muž světa zemřel ve 116 letech	Japonsko: Nejstarší muž světa jaký kdy žil zemřel ve 116 letech	4.6
+281	Bydlení nastartuje na 6,8% v květnu.	Květnové bydlení nastartuje na 6,8%.	4.6
+282	Imran obviňuje konkurenta z vraždy kolegy	Pákistánský Imran obviňuje konkurenta ze zabití člena strany	4.2
+283	Carney nastavuje vysokou laťku pro změnu na BoE.	Carney nastavuje vysokou laťku na změny v Bank of England.	5.0
+284	Rouhani vede v Íránu v prezidentských volbách - předběžné výsledky.	Rouhani vede po počátečním sčítání v Íránu.	4.2
+285	Ozbrojenci v Pákistánu zabili devět turistů	Ozbrojenci útočí na hotel v odlehlé pákistánské provincii	3.2
+286	Vozidla vzplanula ve zhrouceném tunelu v Japonsku.	"Vozidla ""ponechána hořící"", kouř vychází z Japonského tunelu."	4.2
+287	Palestinci v rozporu s izraelskými silami ve West bance, Jeruzalém.	Palestinci v rozporu s bezpečnostními silami ve W. bance.	4.2
+288	Nejméně 6 mrtvých při srážce autobusu a vlaku v Kanadě	Nejméně 6 mrtvých při vlakové nehodě v Paříži	2.2
+289	Požár v Pekingu zabil 10 lidí.	Požár v Pekingu zabil deset lidí.	5.0
+290	Egypt hlasuje o nové ústavě.	Egypťané hlasují o nové ústavě.	4.8
+291	Bradley Cooper a JJ Abrams v jednání o natáčení životopisného filmu Lance Armstronga.	Bradley Cooper v rozhovorech, kdo bude hrát Lance Armstronga v životopisném filmu.	4.0
+292	Silný smog zasáhl severočínské město, letový provoz zastaven 	Silný smog zasáhl severočínské město, letový provoz zastaven	5.0
+293	Bangladéšský vůdce opozice odsouzen k smrti za válečné zločiny.	Bangladéš: Uprchlík odsouzen k smrti tribunálem pro válečné zločiny.	3.6
+294	Spojené státy obnovily, po zveřejnění, hledání ztracených Britských námořníků.	Pobřežní hlídka spojených států zastavila hledání Britských námořníků.	2.4
+295	3 mrtví a 4 pohřešovaní při stavební nehodě v centrální Číně	Jeden mrtvý a 8 pohřešovaných při lodní nehodě ve Vietnamu	0.4
+296	Rakušani našli nahromaděných 56 ukradených lebek v domácím muzeu.	Ukradené lebky nalezeny v domácím muzeu.	3.4
+297	UK je ostražitá ohledně Syrských chemických zbraní.	Západ zvyšuje dohled nad Syrskými chemickými pohledávkami.	3.8
+298	Sebevražedný atentátník zabil 3 lidi na americké základně v Afghánistánu.	Sebevražední atentátníci zaútočili na americkou základnu v Afghánistánu.	2.8
+299	Brahimi se omlouvá Sýrii za nedostatečný mírový pokrok	Prostředník se omlouvá Syřanům za nedostatečný mírový pokrok	3.8
+300	Údajný policejní zabiják zabit střelou do hlavy.	Údajný policejní zabiják zabit výstřelem.	4.2
+301	Civilista, uprchlík zabit v Sýrii, napsala NGO	Syrský ozbrojenec zabil tři Syrské strážníky: NGO	1.0
+302	Egypt zahájil ofenzivu proti sinajským militantům.	Egypt zahájil ofenzivu proti sinajským povstalcům.	5.0
+303	Aktualizace světových zpráv, co potřebujete vědět	Dělnická sazba daně 50p: co potřebujete vědět	0.6
+304	Červený kříž vyjednával pozastavení bojů v Sýrii k poskytnutí pomoci raněným	Červený kříž vyjednává příměří v Sýrii, aby poskytl pomoc	4.4
+305	3 mrtvý, 4 pohřešovaní ve střední Číně po konstrukční nehodě.	Jeden mrtvý, 8 pohřešovaných ve Vietnamu po lodní nehodě.	0.4
+306	Rusko odsuzuje severokorejský jaderný test.	Jižní Korea potvrzuje, že Severní Korea provedla sporný třetí jaderný test.	1.2
+307	Knihy pomáhají dětem mluvit o novinkách z Bostonského maratonu.	Zpráva o dvou explozích z Bostonského maratonu na cílové čáře.	0.8
+308	Thajská vláda svolala bezpečnostní složky k potlačení protestů v Bangkoku.	Thajské bezpečnostní složky zůstávají v kasárnách, protože protesty se uklidnily.	1.8
+309	Úřady izraelské vlády, nové vyrovnání před projednáním.	Izrael vylepšuje nová vyrovnání, doma před mírovým projednáním.	4.8
+310	Starosta říká, že za 14 mrtvých v Texasu může výbuch hnojiva na rostliny.	Záchranáři hledají přeživší po výbuchu hnojiva na rostliny v Texasu.	1.4
+311	Volební místnosti otevřely při volbě ukrajinského prezidenta	Spuštění nominací od e.TV Ghana na cenu největší vlivnosti	0.2
+312	Van der Sloot se bude ženit ve vězení.	Joran Van Der Sloots se chce ženit v Peruánském vězení.	4.0
+313	Prezident Alžírska je léčen po mrtvici: státní média	Bulharský prezident se snaží zabránit volebnímu debaklu	0.4
+314	Čínské akcie ve středu klesly.	Čínští studenti napadeni ve Francii.	0.0
+315	EU ministři jsou odhodlaní vyřešit skandál s koňským masem.	EU ministři vedou a pořádají krizové rozhovory ohledně skandálu s koňským masem.	4.4
+316	Romney, Obama střet o dani, ekonomika poprvé v debatě	Obama a Romney se staví k první debatě	2.2
+317	Pákistánský Mušaraf obviněn z vraždy Bhuttova	Pákistánský Mušaraf obviněn z Bhuttovi smrti	4.8
+318	Muž zatčen po zastřelení policisty v Leedsu.	Námořnictvo naléhá na vypuzení důstojníka, který fingoval smrt.	0.4
+319	Mandela hospitalizován, reaguje na léčbu.	Mandela hospitalizován poté, co ukončil řeč.	3.4
+320	Asteroid sviští mezi Zemí a satelity.	Asteroid prolétá kolem Země.	4.4
+321	Proslulý španělský flamengo-kytarista Paco de Lucía zemřel	Španělský flamengo-kytarista Paco de Lucia zemřel ve věku 66ti let	4.6
+322	Al-Káida tvrdí, že zajala 70 jemenských vojáků v bitvě u Abyan	Střety s Al-Káidou zabily 35 vojáků v Jemenu	1.4
+323	Šinzó Abe byl zvolen japonským premiérem.	Šinzó Abe je japonský premiér.	4.2
+324	8 lidí zatčeno po smrtícím kolapsu budovy v Bangladéši.	Čtyři lidi zatčeni, počet obětí Bangladéšské budovy vzrostl na 352.	2.4
+325	Syrská občanská válka v obrazech	Mírové rozhovory v syrské občanské válce jsou v ohrožení kvůli vměšování Íránu	1.2
+326	Vzpomínáme 50. výročí smrti JFK.	Na 50. výročí smrti JFK, postavil Dalas první památník.	4.0
+327	Británie ukončila továrny na koňské maso, skandál dosáhl až do Francie.	EU ministři se rozhodli vyřešit skandál s koňským masem.	3.0
+328	FAA zpřísní zákaz amerických letů do Tel Avivu	FAA zpřísní zákaz amerických letů do Izraele	4.0
+329	Obama udělal rozhodnutí na poslední chvíli v syrském schválení.	Obama zvažuje limitovanou vojenskou akci v Sýrii.	2.0
+330	Střelec mezi sedmi mrtvými po střelbě v apartmánu na Floridě.	Střelec mezi sedmi mrtvými po přestřelce v apartmánu na Floridě.	5.0
+331	Mluvčí Knessetu: Obamovo znovuzvolení je pro Izrael špatné	Sedm států si stěžuje na zákon kontroly porodnosti od Obamovy vlády	0.4
+332	Ohledně smrti Diany byla polici předána nová informace, vztahující se k smrti princezny Diany a Dodi Fayed, zdá se, že obsahuje možné tvrzení, že byli zavražděni.	Nové informace ohledně smrti Diany a Fayed, smrt princezny Diany a Dodi Al Fayed jsou znovu vyšetřovány policií, po obdržení informace.	3.5
+333	Severní Korea odmítá vyjednávat.	Severní Korea odpálila 2 rakety.	1.2
+334	Počet obětí filipínského zemětřesení stoupl na 185	Počet obětí filipínského zemětřesení stoupl na 144	3.6
+335	Indie a USA budou příští týden jednat o Číně	Egypt bude příští týden jednat s MMF ohledně půjčky	1.4
+336	Tropická bouře Isaac zvyšuje nároky nezaměstnaných	Tropická bouře Joyce se formuje, stále zůstává v otevřeném Atlantiku	1.0
+337	Vojenské letouny zabili 38 bojovníků v náletech na Severo-západní Pákistán.	Americký dron zabil 4 bojovníky v Pákistánu.	3.2
+338	Matt Smith po 4 letech opustí Doctor Who.	Matt Smith ukončí BBC Doctor Who.	4.0
+339	US špionážní složky obviňují NSA z úniku informací.	US špionážní složky obviňují Snowden kvůli úniku informací.	3.8
+340	Spojené státy tvrdí, že jsou připraveny na pomoci slepému čínskému aktivistovi	USA jsou připraveny pomoci čínskému aktivistovi: oficiálně	3.4
+341	Armádní stíhačka spadla do budov ve Virginii, šest zranila	Armádní stíhačka spadla do apartmánů ve Virginii, 9 raněných	3.2
+342	Nálet Nato zabil dvě afghánské děti.	Voják Nato zemřel v Afghánistánu.	1.2
+343	Macuaský gamblerský příjem dosáhl rekordu $38 milionů v roce 2012.	Macauský gamblerský příjem dosáhl rekordu $38 milionů v roce 2012.	5.0
+344	Snowden získal uprchlický dekret od Ekvádoru	Snowden připravený odletět z Moskvy	1.2
+345	Delhi, oběť skupinového znásilnění, bita a otrávena.	Delhi, skupinové znásilnění, verdikt opět odložen.	1.8
+346	Tech Sector Heats Up: Google a IBM vykazují vysoké zisky.	Akcie Googlu rostou přes 1000$ pevného zisku.	2.6
+347	Voják z NATO byl zabit při afghánském útoku	Voják z NATO byl zabit v Afghánistánu	3.8
+348	Turecká protidemonstrační policie použila slzný plyn na protestanty na Taksimském náměstí.	Turecká protidemonstrační policie vstoupila na Taksimské náměstí.	3.0
+349	Sýrie odsuzuje izraelské letecké údery.	Série smrtících útoků zasáhla v Iráku.	2.0
+350	Indický ministr financí se přestal ucházet o prezidenta	Julian Assange se plánuje ucházet o post do australského senátu	0.2
+351	Na venezuelské volební protestanty použila policie slzný plyn	Chavez, Madurovův dědic, vyhrál venezuelské prezidentské volby	0.6
+352	Schumacher v kómatu po lyžařské nehodě.	Michael Schumacher stále v kómatu bojuje o život po nehodě na lyžích.	4.0
+353	Čínský ledoborec změnil kurz k podezřelým objektům	Čínské průzkumné letadlo našlo ‚podezřelé objekty‘	2.0
+354	Obyvatelé v okolí Gazy dostali pokyn zůstat v blízkosti úkrytu	Bestův velký den přinesl Západním Indiánům výhru	0.0
+355	Malala, Snowden a Bělorusové postoupili do dalšího kola o Sakharovu cenu.	Uprchlík Snowden postoupil do dalšího kola o Cenu za lidská práva Evropy.	3.6
+356	Havárie letadla v San Francisku v kostce.	Dva mrtví, 181 zraněných při leteckém neštěstí v San Francisku.	1.2
+357	Ryanair hlásí rekordní zisky, ale varuje, že růst pravděpodobně letos zpomalí.	Stansted: Ryanair hlásí 13% nárůst ročního zisku, ale varuje před zpomalením růstu v letošním roce.	3.4
+358	Tokijské akcie klesly o 0.26 procenta.	Tokijské akcie klesly o 1,53%.	3.0
+359	Irácký bombový útok zabil minimálně 13 lidí.	Irácká bomba v autě zabila minimálně 14 lidí.	3.0
+360	10 mrtvých a pět zraněných si vyžádala dopravní nehoda v jihozápadní Číně.	5 zraněných si vyžádala autonehoda ve městě Gaza.	1.0
+361	12 lidí zabito při nehodě autobusu v Pákistánu.	10 lidí zabito při silniční nehodě v severozápadním Pákistánu.	3.2
+362	Tři Tibeťané se obětovali v západní Číně: zpráva	7 Tibeťanů se obětovalo v Číně	2.4
+363	Assad říká že žoldáci mají na svědomí Syrské nepokoje	Assad obviňuje USA z eskalace syrského povstání	3.33333333333333
+364	Ozbrojenci unesli sedm zahraničních pracovníků v Nigérii.	Sedm zahraničních pracovníků uneseno v Nigérii.	3.4
+365	Ozbrojenci v severním Pákistánu zabili 10 zahraničních turistů	Pákistánští islámští radikálové zabili 9 zahraničních turistů a 1 Pákistánce.	2.6
+366	Bezpečnostní agentury přitvrzují pro Thatcherovo pohřeb.	Bezpečnostní agentury se obávají nových teroristických hrozeb v Keně.	0.0
+367	Akcie Číny otevírají nízko ve středu.	Akcie Číny zavírají nízko v pondělí.	2.6
+368	Thajská opoziční strana bojkotovala všeobecné volby.	Thajská opozice vyhlašuje bojkot voleb.	4.8
+369	Venezuela vyloučí tři americké diplomaty.	Venezuela vyloučí 3 americké diplomaty.	5.0
+370	Severní Korea blokuje přístup do Kaesongu.	Severní Korea slibuje restartování jaderných zařízení.	1.0
+371	Izrael propouští palestinské vězně.	Vládní výbor schválí propuštění 26 palestinských vězňů.	3.4
+372	Letecký úder zabil jednoho člověka v syrském Hama	Bezpilotního letounu USA zabil jedenáct lidí v Pákistánu.	2.8
+373	Střelec zabil osm lidí při druhém útoku v Keni.	Střelec 'zabil 15 lidí' při druhém útoku v Keni.	3.0
+374	US varuje Sýrii před chemickými zbraněmi.	U.S. se obává růstu ohledně syrských chemických zbraní.	3.2
+375	Skupina čtyř dětí tancujících na dvorku.	Skupina dětí se protahuje na barevných podložkách.	1.6
+376	Dva černí psi si hrají na trávě.	Dva černí psi si hrají na travnaté planině.	4.6
+377	Skupina teenagerů skáče do vzduchu na pláži.	Skupina mladých lidí, vyskakuje do vzduchu, zatímco jsou na pláži.	4.8
+378	Černohnědý pes žvýká velký klacek.	Černobílý pes hrající si v písku.	1.8
+379	Chlapec mává dokola prskavkou.	Mladý chlapec točí prskavkou kolem ve vzduchu.	4.4
+380	Dva černí psi hrající si v trávě.	Dva psi si hrají v trávě.	4.2
+381	Několik lidí v noci posedává okolo ohně.	Skupina lidí v noci postává a posedává kolem na zemi.	2.6
+382	Dva chlapci skáčou do bazénu.	Dva chlapci jsou ve vzduchu při skákání do vnitřního bazénu.	4.2
+383	Dvě různá plemena hnědých a bílých psů si hrají na pláži.	Dva psi hrající si v písku na pláži.	4.0
+384	Muž a dvě ženy oblečeni v upířích kostýmech.	Muž a dvě ženy oblečeni v kostýmech.	3.4
+385	Dva chlapci, jeden s kloboukem, na hřišti.	Chlapec v béžovém klobouku se směje, zatímco sedí poblíž vybavení hřiště.	2.4
+386	Dva psi hrající si ve sněhu.	Dva psi si hrají ve sněhu.	5.0
+387	Žena drží dítě, zatímco muž se kouká na jiného muže držícího dětské hodinky.	Žena stojí v obchodě s rukama venku, zatímco jiná žena drží kameru.	0.4
+388	Bílý načechraný pes běží v čistě bílém sněhu.	Načechraný, bílý pes běžící ve sněhu.	4.6
+389	Žena držící noviny.	Muž na kolečkových bruslích na kovové tyči.	0.0
+390	Skupina mužů hrajících na dechové nástroje.	Skupina chlápků hraje venku na nástroje.	3.4
+391	Dvě dívky na břehu pozorují lidi v rybářské lodi.	Dva muži, jeden v červeném a jeden v bílém hrající basketbal.	0.0
+392	Snowboardista skáče do vzduchu.	Snowboardista letí vzduchem.	4.0
+393	Bílý pes s červenýma ušima běží ve sněhu.	Mokrý černý pes s červeným obojkem je v řece.	0.6
+394	Holčička a chlapec se drží za ruce na lesklé skluzavce.	Holčička v kašmírových šatech běží přes písečné hřiště.	0.4
+395	Děti hrají fotbal na hřišti.	Tři chlapci hrající fotbal na hřišti.	4.2
+396	Skupina mužů jde a visí na lanech.	Skupina mužů hraje vysokoškolský fotbal.	1.4
+397	Muž skáče z jedné střechy na druhou.	Mladý muž skáče z jednoho balkónu na druhý.	2.8
+398	Černoch v černočerveném spí na lavičce s otevřeným deštníkem.	Muž sedící na lavičce v parku dávající si šlofíka s otevřeným deštníkem, který ho chrání před sluncem.	3.6
+399	Jedno dítě tahá jiné, sedící v červeném voze, podél písku.	Chlapec táhne jiného chlapce ve směšném klobouku ve vozítku.	3.4
+400	Dvě štěňata hrající si s plastovou taškou.	Dva psi hrající si na dvorku.	3.0
+401	Sova má své křídla nahoře a roztažené v průběhu dne.	Pták v průběhu letu má své křída roztažené.	2.4
+402	Muž v modré čepici sedí na stoličce pod stromem.	Pes stojící na pláži s míčem poblíž.	0.0
+403	Žena zpívá do mikrofonu vedle muže hrajícího na kytaru.	Žena zpívá do mikrofonu s kytaristou v pozadí.	4.4
+404	Tři ovce se pasou na louce se psem jdoucím za nimi.	Malá skupina koz v trávě s černobílým psem v pozadí.	2.8
+405	Cyklista skáče na kole mezi dvěma kameny.	Muž skáče na kole ve vzduchu mezi dvěma kameny.	4.4
+406	Muž se šedivým plnovousem jezdí na kole na pláži oceánu.	Skvrnitý pes stojí na zadních nohách a chytá míč na pláži.	0.6
+407	Muž v černém obleku surfuje sám po ničivých vlnách.	Surfař v černém potápěčském obleku jede na bílé vlně v oceánu.	4.6
+408	Mladá dívka s nasazeným růžovým kloboukem se žlutou budovou v pozadí.	Mladá dívka v růžových šatech s něčím v ruce.	1.8
+409	Dívka v růžových šatech jede na kole podél bílého kolíkového plotu.	Dívka v červených šatech jede na kole před bílým plotem.	4.0
+410	Hnědé chlupaté zvíře stojí za nějakými rostlinami.	Pes kouká, zatímco stojí v lese.	1.4
+411	Dítě v červené košili, používá černý wakeboard, aby překonalo plážovou vlnu.	Muž v člunu, vesluje přes modrou vodu.	1.0
+412	Béžovo bílý pes běží v poli.	Hnědobílý pes běží skrz pole.	3.4
+413	Tři malé dívky sedí na trávě.	Dva pudlové běží sněhem.	0.8
+414	Hnědý pes běží směrem k fotoaparátu na prašné stezce s horami v pozadí.	Hnědý pes běží dolů směrem ke kameře po skalní stezce skrz křoví s horami v pozadí.	4.0
+415	Zlatý retrívr skákající z dřevěné verandy.	Zlatý retrívr skáče z dřevěné verandy.	5.0
+416	Pes skáče dolů po rampě.	Dívka skáče v písku.	1.2
+417	Pes si hraje v parku.	Pes skáče přes plot v parku.	3.2
+418	Dvě mladé dívky, jedna se usmívá.	Holčička na dětské houpačce.	0.8
+419	Dva ptáci škádlící se v trávě.	Dva psi si spolu venku hrají.	0.2
+420	Čtyři psi stojí ve sněhu.	Čtyři psi hrající si ve sněhu.	3.6
+421	Hnědí a černí psi ve sněhu, ukazující zuby a štěkající na sebe.	Černý pes bojující s hnědým psem ve sněhu.	3.4
+422	Dva turisté stojí na vrcholu zasněžené hory.	Dva horolezci stojí na vrcholu hory a rozhlížejí se kolem sebe.	3.4
+423	Muž běžící na trati.	Běžící muž na trati.	5.0
+424	Dvě děti v poli červených květin.	Dvě děti si hrají v poli červených květin.	4.8
+425	Mladí muži skáčou ze skály do jezera.	Mladý muž v červených plavkách skáče z velké skály do vody.	4.0
+426	Malý černý pes je v trávě.	Černý pes běží v trávě.	3.6
+427	Dáma v kimonu se dívá do kamery.	Dvě dívky oblečené v černém sedí v místnosti a dělají sugestivní pózy na kameru.	1.0
+428	Skupina lidí nafukuje horkovzdušný balón.	Velká skupina lidí jedoucí na hnědých a bílých koních.	0.0
+429	Děti si hrají na boj s meči.	Dítě a rodič se mazlí s koněm.	0.0
+430	Muž jede na windsurfu v oceánu.	Pes běží oceánem.	1.4
+431	Muž na bruslích sjíždí řadu schodů.	Muž na lyžích sjíždí zasněžený kopec.	0.8
+432	Tři psi závodící na prašné dráze.	Auta závodící na prašné dráze.	1.4
+433	Dva lidé držící se za ruce a jdoucí v poli.	Dva muži, procházející kolem nástěnné malby auta.	1.2
+434	Hnědý pes honí frisbee.	Hnědý pes válející se na trávě.	1.6
+435	Dáma ve žlutém oblečení je ve vzduchu nad postelí ve žluté místnosti.	Pes s červeným vodítkem je stále zapojen do honičky po trávě za tenisovým míčkem.	0.0
+436	Žena v červených montérkách, stojící na chodníku.	Žena v červených montérkách stojí na chodníku.	5.0
+437	Pes běží přes dvorek plný listů.	Tři psi běží přes pole.	2.8
+438	Dvě štěňata hrající si kolem v trávě.	Dvě štěňata si hrají v trávě.	5.0
+439	Světle zbarvený pes běží v trávě.	Pes běží přes trávu.	4.0
+440	Dva černobílí psi si hrají spolu venku.	Dvě děti a černý pes si hrají venku ve sněhu.	1.0
+441	Tři psi běžící vodou.	Černý pes běžící vodou.	1.0
+442	Žena sedí sama naproti cihlové zdi.	Žena se prochází se svojí červenou taškou.	1.2
+443	Lyžař skáče do vzduchu přes sněhové pole v blízkosti pohoří.	Žena sedí u záhonu s výhledem do tunelu.	0.0
+444	Hnědý pes nesoucí klacek v tlamě.	Pes plavající s klackem v tlamě.	2.6
+445	Mladá žena se naklání k talíři při jídle.	Mladá žena, nahoře bez pomalovaná barvou a bahnem.	0.8
+446	Psi si hrají ve sněhu.	Dva psi hrající si na pobřeží.	1.8
+447	Mladý chlapec v červených plavkách skáče do bazénu.	Pes je stříkán hadicí, zatímco skáče do brouzdaliště.	0.8
+448	Osoba, která leze na zasněžené kopce, je následována jejím psem.	Osoba šplhá na zasněžené kopce, zatímco černý pes následuje.	3.8
+449	Hnědý pes sedí na pláži.	Pes běžící na pláži.	2.0
+450	Potápěč ponořený ve vodě.	Potápěč je pod vodou.	5.0
+451	Muž jede na kole ze zaprášeného kopce.	Cyklista sjíždí dolů po zábradlí.	1.8
+452	Velký šedý pes si hraje v hlubokém sněhu.	Čtyři psi, hrající si ve sněhu.	2.6
+453	Muž jedoucí na kole na pláži u oceánu.	Muž jdoucí se svou krávou po straně silnice.	0.8
+454	Dva psi běží na trávě před stromy.	Hnědý pes běží na trávě před nějakými stromy.	2.8
+455	Pes v autě.	Pes kouše do mopu.	1.0
+456	Dítě drží objekt, který je v jednom ohni.	Dítě v růžovém má objekt, který se zdá být v jednom ohni.	4.0
+457	Pes s plandavýma ušima jdoucí směrem k fotoaparátu v lese.	Dítě před vlastním odrazem se otáčí na kameru a usmívá se.	1.2
+458	Hnědý pes stříkající vodu všude otřepáváním vody ze sebe.	Bílý pes stojí u řeky, otřásající se do sucha.	2.4
+459	Mladý chlapec lezoucí na skalní stěnu.	Pět chrtů závodí na pískové dráze.	0.0
+460	Černobílý pes běží na pláži.	Černohnědý pes běží sněhem.	1.8
+461	Mnoho lidí ze středního východu sedí v zadní části modrého vozu.	Skupina lidí jede v zadní části kamionu.	3.4
+462	Člověk se dvěma lyžařskými hůlkami sjíždí zasněžený kopec.	Člověk na lyžích sjíždí zasněžený kopec.	4.2
+463	Žena jí ryby v restauraci.	Žena jí velkou rybu v restauraci.	4.6
+464	Dítě a dva psi si hrají ve vodě.	Dítě v červenomodrých rukávkách dívající se na vodu.	2.2
+465	Skateboardista dělající trik na kamenné zdi.	Skateboardista jedoucí do svahu.	2.2
+466	Lidé stojí na eskalátoru jedoucím nahoru.	Lidé jedou nahoru na eskalátoru.	4.6
+467	Dáma běží se svým psem na kurzu hbitosti.	Trenér běží se svým psem na tréninkovém kurzu v zelené trubce.	4.2
+468	Bílohnědý pes si oklepává uši.	Hnědý pes běží přes písek.	1.4
+469	Skateboardista skáče ze schodů.	Pes skáče ze schodů.	0.8
+470	Některé děti zvedají ruce a tleskají.	Tři děti hrají fotbal na písku.	0.2
+471	Muž vyfoukává velké bubliny.	Muž venčící velkého černého koně.	0.0
+472	Dva lidé sedí v doku kousek od vody.	Dva lidé sedí na konci doku uprostřed klidné vody.	3.8
+473	Dva psi běžící společně a jeden má kachní hračku v tlamě.	Černobílý pes jdoucí po trávě s dlouhým klackem v tlamě.	1.8
+474	Černobílý pes běží po trávě.	Černo bílý pes plave v modré vodě.	1.4
+475	Hokejový brankář ležící na ledu před brankou.	Hokejový hráč leží na ledu před bránou.	4.6
+476	Lyžař má na sobě modré oteplovací kalhoty, letí vzduchem poblíž skokánku.	Lyžař stojí na ruce na sněhu před videokamerou.	1.4
+477	Hnědý pes běží po travnaté cestě.	Hnědý pes běží po travnatém úseku děleným řetězem.	3.4
+478	Dívka má na sobě modré proužkované tričko a kolečkové brusle.	Muž v černobílé košili skákající na psím hřbetu.	0.0
+479	Potetovaný muž v černém hrající na bílou kytaru a zpívá.	Žena v černobílém plášti a chrániči sluchu.	0.0
+480	Pes běžící po pláži.	Chlapec a dívka běžící po pláži.	1.4
+481	Mladý muž a žena sedící venku na lavičce se líbají.	Muž a žena sedící na lavičce se líbají.	4.6
+482	Hnědý pes vyskakuje, aby chytil zelený pásek do jeho tlamy.	Šedý pes, skáče, aby skousl zelené vodítko.	3.2
+483	Černý pes běží v trávě.	Černohnědý pes běžící v trávě.	3.2
+484	Žena sedí na chodníku s mobilním telefonem u ucha.	Žena jede na kole.	0.5
+485	Tři psi si hrají v travnatém poli.	Nějaké děti si hrají v poli.	1.2
+486	Malý bílý pes přelézá kládu.	Malý pes překračuje kládu.	2.8
+487	Mladý chlapec si hraje v jámě s červenými míčky.	Smějící se chlapec leží v jámě s modrými balónky.	3.0
+488	Surfař na vlně.	Surfař sjíždí vlnu.	4.4
+489	Psi si hrají ve sněhu na zadních nohách.	Dva psi si hrají ve sněhu.	3.8
+490	Skateboardista, se dostal na vrchol rampy.	Skateboardista, jede na trubkové zdi ve skateparku.	2.4
+491	Dva muži na běžecké soutěži.	Psi v závodě.	1.0
+492	Chlapec sjíždí na skateboardu zábradlí na schodech pomalovaných graffiti.	Skateboardista sjíždí dolů po zábradlí na nohách.	2.6
+493	Černobílý pes běží vodou.	Černohnědý pes běží polem.	2.0
+494	Dvě děti jdou po cestě v lese.	Dvě děti jdoucí po cestě v lese.	5.0
+495	Hnědobílý pes běží po trávě.	Béžovočerný pes běží přes trávu.	3.4
+496	Žena běží po pláži.	 Pes běží přes pozemek.	1.8
+497	Dva psi běží bok po boku po trávě.	Dva psi běžící po trávě.	4.4
+498	Dva psi čůrají na červený požární hydrant.	Dva psi močí na červený požární hydrant.	5.0
+499	Hráč ragby v tmavě zelené výbavě nese světle zbarvený ragbyový míč napřaženou rukou.	Hnědý pes šplouchá ve vodě, zatímco nese míč v jeho tlamě.	0.4
+500	Zlatě zbarvený pes skáče kolem v trávě, zatímco drží klacek v tlamě.	Černý pes běží přes trávu nesoucí něco červeného v tlamě.	2.4
+501	Dva lidé jdou nějakou vodou.	Dvě dívky jdou u stromu před cihlovou stavbou.	1.2
+502	Dívka běží po pouštní cestě.	Mladá dívka mluví do mobilního telefonu.	0.8
+503	Bílý pes si hraje s míčem na pláži.	Černobílý pes si hraje s béžovým psem.	1.6
+504	Pes cákající ve vodě.	Pes cáká v kalné vodě.	4.0
+505	Muž řídí modrou loď kolem pestrobarevných domů.	Muž řídící modrou loď proplouvající kolem pestrobarevných domů.	5.0
+506	Skupina lidí jde po chodníku z velkoměsta.	Skupina lidí jede v zadní části kamionu.	1.0
+507	Pes je ve vzduchu nad trávou.	Pes leží na posteli s modrým povlečením.	1.0
+508	Žena v černých šatech s červenými doplňky jde na ulici.	Žena v černých šatech jdoucí na ulici.	3.8
+509	Černý pes běží přes nějakou vodu.	Muž ve fotbalovém dresu běží s míčem v průběhu hry.	0.0
+510	Dívka stojí v metru čekající na něco.	Dívka stojí v temném prostoru.	2.0
+511	Dva psi, se k sobě přiblížili v trávě.	Dva psi, stojí proti sobě na trávě.	4.8
+512	Muž sedí s malou holčičkou v parku.	 Muž si hraje s chlupatým malým psíkem.	0.6
+513	Velký béžový pes běží se zeleným předmětem v tlamě.	Béžový pes nese zelenou pískací hračku v tlamě.	4.4
+514	Skupina lidí v lodích závodících ke břehu.	Učebna studentů sledujících prezentaci.	0.0
+515	Člověk, který skáče na skateboardu do vzduchu nad rampu.	Motorkář jede podél trati prvku umístěného na zalesněné oblasti.	0.6
+516	Chlapec v noci sjíždí na skateboardu kovové zábradlí.	Hnědý pes běží na písku, držící klacek.	0.0
+517	Člověk se protahuje otvorem ve skále.	Středně velký hnědý pes běží přes otevřené bílé zalesněné oblasti.	0.0
+518	Pes běží směrem k fotoaparátu s míčem v tlamě.	Černobílý pes plave s hnědým objektem v tlamě.	2.0
+519	Mladá dívka běžící na pláži.	Malá dívka běžící na břehu pláže.	4.2
+520	Hráč baseballu hází míček.	Hráč basketbalu drží míč.	1.6
+521	Muž se houpá na laně nad vodou.	Muž v plavkách v barvě kaštanů se houpe na laně na jezeře.	3.0
+522	Žena ve velkých slunečních brýlích drží noviny v obou rukách.	Tlustá žena v slabém modrém topu fouká mýdlovou bublinu.	1.0
+523	Jelen skáče plot.	Jelen skáče přes plot.	5.0
+524	Mladá dívka oblečená v Minnie Mouse oblečení a starší žena jdou po chodníku.	Muž v bílém obleku a s novinami kráčí ulicemi.	1.0
+525	Pár psů hrající si s fialovým míčem.	Dva psi si hrají s fialovým fotbalovým míčem.	4.4
+526	Pták přistane ve vodě.	Loď plave ve vodě.	0.6
+527	Tři děti stojí na plotu nebo v jeho blízkosti.	Tři děti stojí na plotu a u něj.	4.6
+528	Černý pes se vynoří z vody s bílým míčem v tlamě.	Černý pes vylézá z vody s bílým míčem v tlamě.	4.8
+529	Dívka ve fialovém tričku a v růžové čelence pózuje.	Mladá dívka v klobouku a modrých džínách je na houpačce.	0.4
+530	Hnědý pes kope díru před rostlinou.	Skupina lidí jdoucí podél železniční trati.	0.0
+531	Hnědobílý pes plave v bazénu.	Hnědobílý pes plave v bazénu na dvorku.	4.6
+532	Dva šedí psi běží spolu přes zelený trávník.	Dva šedí psi běhají na zeleném trávníku.	4.6
+533	Chlapec sjíždí kopec na červených sáňkách.	Mnohobarevný pes s červeným obojkem se krčí v trávě.	0.0
+534	Dva psi si hrají v trávě.	Dva psi si hrají ve sněhu.	2.8
+535	Černo hnědý pes běží lesem.	Pes běží lesem.	4.0
+536	Dva psi běží na trávě.	Dva psi si hrají v trávě.	4.4
+537	Dva psi běží na travnaté ploše.	Dva psi běží přes travnatou plochu.	5.0
+538	Pár sedící na zahradní židli v blízkosti vody.	Chlapec v parku skáče z jednoho piknikového stolu na druhý.	0.0
+539	Tři lidé sedí u piknikového stolu před budovou natřenou jako Union Jack.	Tři lidé sedí u venkovního stolu před budovou natřenou jako Union Jack.	4.8
+540	Mladá dívka vztyčí znamení míru.	Holčička se na ulici drží tyče.	0.6
+541	Muž visí na laně z útesu nad vodou.	Muž sedící sám na molu s lahví vody.	0.6
+542	Muž se krčí a drží kameru.	Krčící se muž drží velkou kameru.	4.6
+543	Muž na kole sjíždí úzkou cestu.	Muž na jednokolce sjíždí zpevněnou cestu.	2.6
+544	Muž v oranžovém kabátu mluví na druhého muže, zatímco procházejí sněhem.	Muž a žena ve staromódním oblečení sedí venku u stolu.	0.6
+545	Pes plave přes vodu.	Pes s pláštěnkou běží sněhem.	1.4
+546	Německý ovčák skáče skrz černou obruč, zatímco se lidé koukají.	Pes skáče skrz obruč.	3.2
+547	Pes skáče do vzduchu, aby chytil hračku.	Černý pes, skočí do vzduchu, aby chytil hračku.	4.0
+548	Mladá smějící se dívka a chlapec hrají na velký buben.	Mladá dívka a malý chlapec stojí u kytary a bubnu.	2.4
+549	Hnědý pes leží na modré přikrývce.	Člověk se potápí v průzračně modré vodě.	0.0
+550	Dva chlapci hrající si na hřišti.	Dva lidé mají hlavy pokryté šátky.	0.0
+551	Hnědý pes běží na sněhu se sněhovou koulí v tlamě.	Čtyři psi si hrají na sněhu s panoramou města za nimi.	1.8
+552	Skupina lidí stojí na ulici.	Žena oslovující rozmanitou skupinu lidí stojící na ulici.	2.6
+553	Pes běží na hnědé trávě.	Mokrý pes s tenisákem běží přes žlutou trávu.	2.2
+554	Dva psi běží přes trávu.	Tři psi běží ve sněhu.	2.2
+555	Muž a dva mladí kluci skáčou na trampolíně.	Muž a dva kluci skáčou na trampolíně.	4.6
+556	Muž sedící na veřejnosti jí jablko.	Muž na veřejném prostranství jí jablko.	5.0
+557	Chlapec se zlomenou rukou odpočívá v posteli.	Chlapec se zlomenou rukou spí.	4.0
+558	Chlapec dělá triky na skateboardu.	Chlapec dělá trik na skateboardu.	4.8
+559	Dvě mladé dívky v trávě se navzájem objímají.	Dvě mladé dívky na travnatém terénu se navzájem drží.	4.6
+560	Dva bílí psi prochází skrz hluboký bílý sníh.	Dva bílí psi prochází skrz obrovský násep horského sněhu.	4.6
+561	Čtyři dívky v plavkách hrají volejbal na pláži.	Čtyři ženy v bikinách hrají volejbal na pláži.	4.8
+562	Pták letí přes vodu.	Pták letí nad vodou.	4.8
+563	Pes běží přes rybník.	Bledý pes běží po prašné cestě.	1.4
+564	Tři psi hrající si ve sněhu.	Tři psi si hrají ve vodě.	2.6
+565	Holčička s mašlí ve vlasech si vybírá nos.	Holčička s helmou ve fialovém tričku jede na koloběžce.	1.2
+566	Muž a žena sledují dva psy.	Muž v kaštanovém koupacím obleku se houpe na laně na jezeře.	0.4
+567	Muž sedící v doku kouká na vodu.	Muž skáče ze skály do vody.	1.33
+568	Mladá dívka se klouže na klouzačce.	Mladá dívka se houpe na houpačce z pneumatiky.	1.8
+569	Mnoho lidí je v cyklistickém závodu, včetně muže na tříkolce.	Muž jede na tříkolovém vozíku.	2.6
+570	Skupina lidí nosí králičí uši.	Skupina lidí jede závod.	0.8
+571	Pes v tričku se supermanem spí na dece.	Hnědý pes v tričku se supermanem leží na modré dece.	4.0
+572	Hnědobílý pes běží sněhem.	Hnědobílý pes běží po trávě.	2.4
+573	Bílo hnědý pes běží přes trávu.	Hnědobílý pes běží přes trávu.	4.8
+574	Muž a žena stojí před budovou.	Dvě dívky sedí na ATV na písku před mostem.	0.4
+575	Hnědý pes dává odpočinout svým tlapám na klávesnici notebooku.	Pes i se svými tlapami sedí na notebooku.	3.8
+576	Mladá dívka s brýlemi sedí a drží dvě Americké vlajky.	Dívka v brýlích se dívá přes dvě Americké vlajky poblíž zalesněné oblasti.	2.6
+577	Malý bílo hnědý pes skáče přes vodorovnou tyč.	Hnědobílý pes skáče přes červenožlutou tyč.	3.0
+578	Dva psi běží přes travnatou plochu.	Dva psi běží přes travnaté pole.	4.8
+579	Děti si hrají s míčem v parku.	Dva psi si hrají na břehu.	0.6
+580	Muž se houpe na laně nad vodou.	Muž v teplém oblečení se v noci houpe na prolézačkách.	1.6
+581	Muž ve fraku jede na kole po zpevněné cestě.	Muž pomocí velké tyče odstraňuje písmena ze značky.	0.2
+582	Dva Asiati a dvě Asiatky sedí v černých masážních křeslech.	Dva Asiati a jedna žena relaxují v masážních křeslech.	4.6
+583	Černobílý pes běží v travnaté zahradě obklopené bílým plotem.	Černobílý pes skáče přes překážky.	2.2
+584	Skupina turistů, odpočívá před horou.	Několik turistů s jejich vybavením odpočívá před horou.	4.8
+585	Dívka si hraje v hromadě barevných míčků.	Holčička si hraje v díře plné barevných míčků.	5.0
+586	Starší muž stojí venku před nákladním autem.	Žena oblečená v zeleném jezdí venku na kolečkových bruslích na nějaké akci.	0.0
+587	Usmívající se muž s reflexními brýlemi.	Gentleman se usmívá a ukazuje jeho reflexní sluneční brýle.	4.6
+588	Pět lidí stojí na chodníku.	Pět lidí na chodníku.	4.8
+589	Dvě dívky v modrých a zelenomodrých šatech s velkými klobouky stojí vedle velkého kmene stromu.	Žena, malý chlapec a malé dítě stojí před sochou krávy.	1.2
+590	Bílý pes běží přes sníh.	Bílý medvěd jde po sněhem pokryté zemi a vrhá stín do sněhu.	1.4
+591	Mladý kluk, v hnědé bundě si hraje se sněhem.	Dva psi si hrají ve sněhu.	1.2
+592	Tři delfíni skáčou v bazénu, před davem lidí.	Muž prezentuje před mnoha lidmi.	0.6
+593	Muž zvedá velký kámen.	Žena zvedá velký kámen.	2.4
+594	Bílo hnědý pes běží přes trávu.	Hnědobílý pes běží napříč trávou.	4.6
+595	Pes běží přes pole.	Pes běhá přes pole.	4.8
+596	Černobílý pes skáče do vody.	Bílý pes běží přes vodu.	2.8
+597	Muž nese krabici s nářadím po chodníku.	Žena jede na modrém kole v parku.	0.0
+598	"Muž v tričku s nápisem ""Gigolo"" stojí u pultu a s někým mluví."	"Muž v tričku s nápisem ""Gigolo"" stojí na recepci zády ke kameře."	3.4
+599	Stan a kemp v prosluněném lese.	Bílý pes na pláži nese klacek v tlamě.	0.0
+600	Dva velcí psi běží v nějaké trávě.	Dva žíhaní psi běží v trávě.	4.2
+601	Pes plave s klackem v tlamě.	Pes běží s klackem v tlamě.	2.6
+602	Žena spí v sedu, s hlavou opřenou o ruku.	Muž, který odpočívá s hlavou položenou na ruce.	2.2
+603	Mladý chlapec skákající do jezera.	Chlapec skáče do jezera.	4.6
+604	Muž aportuje se dvěma hnědými psi.	Žena si hraje s hnědým psem.	2.33
+605	Žluto hnědo bílý pes získává míček na štěrkové cestě.	Velký pes jde v lese po štěrkové cestě.	2.0
+606	Pes běží přes písek s klackem v tlamě.	Pes běží skrz potok s klackem v tlamě.	3.6
+607	Muž stojí ve vodě poblíž vodopádu.	Muž se brodí ve vodě a sleduje padající vodu.	3.4
+608	Černý pes honí dva ptáky na břehu oceánu.	Pes běží podél pláže vedle oceánu.	2.6
+609	Muž a žena na lavičce.	Muž a žena sedí v parku na lavičce.	3.6
+610	Žluto hnědý pes vyskočí chytit tenisový míček.	Červený pes skočí a chytí tenisový míček do tlamy.	3.0
+611	Muž skáče do vody.	Muž je ve vzduchu.	2.4
+612	Žena v černém triku stojí před banány u stánku s ovocem.	Žena oblečená v černém stojí před dodávkou.	2.4
+613	Dítě skáče do bazénu.	Pes skákající do bazénu.	1.2
+614	Malý chlapec skákající z židle na židli.	Mladý chlapec skákající z židle na židli v jeho domě.	4.8
+615	Dívka v jezeře švihá s jejími dlouhými, mokrými vlasy.	Osoba jedoucí na špinavém kole.	0.0
+616	Dva psi hrající si na pobřeží.	Dva psi hrající si ve sněhu.	2.8
+617	Holčička chodí po promenádě s modrými kupolemi v pozadí.	Muž přejíždí překážku na kole s řekou v pozadí.	0.0
+618	Hnědobílý pes zanechává ve sněhu stopy.	Černobílý pes skotačí ve sněhu.	2.6
+619	Hnědý pes leží na modrém prostěradle.	Hnědý pes a dva černí psi v zarostlé travnaté ploše.	0.8
+620	Dvě ženy sedící na lavičce, mají zakryté tváře, jedna žena drží nafukovacího tygra a druhá má kostým Sněhurky od Disneyho.	Dívka sedí na lavičce a drží nafukovacího tygra, sedí vedle jiné dívky v barevném oblečení.	2.2
+621	Chlap a dvě dívky se usmívají do kamery.	Tři psi, jeden bílý a dva hnědí běží společně po travnatém poli.	0.0
+622	Pes plavající s klackem v tlamě.	Pes plavající ve vodě s klackem v tlamě.	5.0
+623	Černý pudl si hraje ve sněhu.	Černý pudl skotačí ve sněhu.	5.0
+624	Dvě dívky držící leták strašidelného filmu.	Dvě dívky držící pytle stojí v poli.	1.4
+625	Tři chlapci hrající hru běží po pláži.	Dva mladí chlapci a jeden mladý muž běží po pláži s vodou za nimi.	3.2
+626	Dívka má na sobě oblečenou fialovou šerpu sladěnou se sukní.	Skupina dívek stojí oblečené v džínových sukních a tričkách se supermanem.	1.6
+627	Dva psi bojující ve sněhu.	Dva psi stojící ve sněhu.	2.4
+628	Muž a dva mladí chlapci skáčou na trampolíně.	Muž a dva chlapci se odrážejí na trampolíně.	4.8
+629	Muž oblečený v šedé bundě stojící na straně ulice.	Chlapec oblečený v modré záchranné vestě se drží na straně zelené lodě.	0.6
+630	Hnědočerný pes skáče, aby chytil červený míč.	Hnědočerný pes, skáče, pro červený míč.	5.0
+631	Žlutohnědý pes běží přes listy.	Bílý pes běží přes oceán.	1.8
+632	Bíločerný pes skáče do bazénu.	Žena v černé zástěře stojí před zrcadlem.	0.0
+633	Černobílý pes nese klacek v tlamě.	Černobílý pes, má klacek v tlapách.	3.0
+634	Jelen skáče přes plot.	Jelen skákající přes plot.	5.0
+635	Malé děvče drží dřevěný klacek.	Malé děvče plavající v bazénu.	2.2
+636	Černý pes skáče přes vodu.	Pes jde přes sníh.	2.4
+637	Skupina lidí před červeným hasičským vozem.	Skupina lidí stojí okolo červeného hasičského vozu.	4.2
+638	Chlapec skočí do modré bazénové vody.	Mladý chlapec skáče do bazénu po břiše.	3.4
+639	Zlatosrstý pes ve sněhu chytá míček do tlamy.	Malá blondýnka sedí na zelené židli.	0.0
+640	Tři děti se smějí a hrají si na podlaze.	Tři děti hrající si na podlaze.	3.8
+641	Muž s rybářskými pruty sedí v blízkosti vodního toku.	 Muž sedí na kameni vedle skládacího sedátka a rybářského prutu.	3.4
+642	Žena a pes stojící v trávě.	Muž drží znak, zatímco stojí v dešti.	0.0
+643	Muž v modrém tričku běhá na stadionu.	Muž v modrém klobouku a tričku jede na bílém koni.	1.0
+644	Žena v černo oranžové bundě hází klacek hnědočernému psu jako aport.	Muž v modré bundě stojí v davu.	0.0
+645	Černý pes běžící vodou.	Černý pes běží nějakou vodou.	4.8
+646	Děti skákající na trampolíně.	Muž sjíždí oranžovou skluzavku.	0.0
+647	Velký hnědý pes se krčí v travnatém poli.	Hnědý pes běží v poli.	3.0
+648	Muž cvičící box.	Muž cvičí box.	5.0
+649	Pes běží trávou.	Pes běží sněhem.	2.2
+650	Dívka s modrým kýblem cáká pod molem.	Dívka v lyžařské bundě jde poblíž budov.	0.4
+651	Lyžař sviští sněhem.	Hnědý pes nesoucí létající talíř běží sněhem.	0.2
+652	Dva lidi na golfovém kurzu hrají golf.	Dva lidi jsou na golfovém kurzu a hrají golf.	5.0
+653	Chlapec a dívka si hrají na pláži.	Pes hrající si ve vlnách s míčem.	0.8
+654	Pes běžící přes sníh se sněhovou koulí v tlamě.	Žlutohnědý pes běží trávou se žlutou hračkou v tlamě.	2.4
+655	Dítě v červeném kabátu leží na červené podložce.	Batole je připravené vylézt na kus červeného vybavení.	0.8
+656	Dva psi si hrají v trávě.	Dva psi hrající si v trávě.	5.0
+657	Skupina lidí dávající pozor na vodu stojí v písku.	Skupina lidí stojí na pláži před nějakými loděmi.	3.2
+658	Dítě v modrobílém dresu běží za fotbalovým míčem.	Mladý chlapec v modrém fotbalovém dresu běží za míčem.	4.0
+659	Hráč softbalu odpalující na hřišti.	Hráč baseballu trefující míček.	2.8
+660	Černý pes běží za bílým psem ve sněhu.	Černý pes pronásleduje hnědého psa sněhem.	1.8
+661	Muž ujíždí na kitesurfu pryč od kamery.	Muž dělá skysurfing na vodě.	2.8
+662	Malý kluk staví nějaké dřevěné bloky.	Malý kluk s modrým trikem kupí dřevěné bloky.	4.0
+663	Černý pes běží v trávě.	Chlapec běžící skrz zelenou trávu.	1.0
+664	Malý chlapec a malá dívka hrající si spolu venku.	Mladý chlapec a mladá dívka jdoucí naproti sobě.	2.0
+665	Dva lidé sedí na konci doku.	Dva lidé sedící v doku.	4.2
+666	Dva psi na dvorku.	Dva psi v potoce.	2.0
+667	Muž pronásledoval psa snažícího se dostat skrz plot na hřiště.	Muž, pronásleduje svého černobílého psa na překážkové dráze.	2.2
+668	Velký hnědobílý pes běží sněhem.	Bernardýn běžící zasněženým polem.	4.0
+669	Malý bílý pes běžící přes trávník.	Běžící malý bílý pes.	3.2
+670	Bílo hnědý pes rychle běží skrz trávu.	Velký bílý pes běží v trávě.	3.4
+671	Krvavý muž a žena pózují pro obraz.	Muž a teple oblečená žena pózují pro obraz.	2.0
+672	Muž a žena jdou s bílým psem na vodítku.	Muž, žena a pes jdou po zpevněné cestě.	4.0
+673	Žlutý pes si hraje na travnaté ploše nedaleko kytek.	Dívka se houpe na houpačce.	0.4
+674	Chlapec si hraje s nudlí u bazénu.	Chlapec si hraje s pěnovou nudlovou hračkou u bazénu.	4.6
+675	Dva velcí hnědí psi běžící sněhem.	Hnědý pes běžící trávou.	2.0
+676	Mladý chlapec skáče do bazénu s roztaženýma rukama.	Pes skáče do bazénu na dvorku.	1.2
+677	Dívka drží žlutý balónek ve tvaru zvířete.	Dítě drží žlutý balónek.	4.0
+678	Dva psi se dělí o hračku v poli vegetace.	Dva snowboardisté jsou ve vzduchu nad sněhem.	0.17
+679	Černý pes běží v trávě.	Černý pes běží skrz trávu.	4.8
+680	Blondýna v bílém pózuje pro kameru.	Černobílý pes běží s otevřenou tlamou.	0.0
+681	Pes běží skrz pole a pronásleduje míč.	Dítě běží skrz trávu.	0.2
+682	Dvě dívky sedí před sochou.	Dvě blondýny sedí vedle sochy.	3.8
+683	Mladý chlapec v červeném zimním kabátu drží a jí tyčinku.	Mladý chlapec v červeném kabátu jí čokoládovou tyčinku.	4.0
+684	Dívka v oranžovém zapaluje svíčku.	Dívka v oranžovém tričku zapaluje svíčku.	4.0
+685	Bílý pes běží skrz pole žlutých kytek.	Pes s červeným obojkem běží uprostřed zimy v lese.	1.6
+686	Nemluvně sedící na lůžku se se natahuje, aby se dotklo obličeje staršího chlapce.	Obličeje nemocně vypadajícího chlapce, se dotklo batole.	2.2
+687	Pes setřásající vodu.	Pes setřásá vodu.	5.0
+688	Mladý chlapec běžící po chodníku.	Černý pes běžící podél oceánu.	0.5
+689	Mladé dítě, se klouže po oranžové skluzavce.	Malý chlapec v džínové kombinéze se klouže po oranžové skluzavce.	3.67
+690	Černobílý pes běžící mezi nějakými červenobílými stožáry.	Černobílý pes stojící na zadních nohách v obýváku.	1.6
+691	Tři jednotlivci na lyžích pózují za cedulí s nápisem zákaz lyžování.	Tři lidé na lyžích stojí za cedulí s nápisem zákaz lyžování.	4.4
+692	Muž v bílém obleku jde ulicí držící noviny.	Muž v bílém obleku jde venku držící noviny.	4.6
+693	Černobílý pes plavoucí v čisté vodě.	Malý černobílý pes plave ve vodě.	4.2
+694	Dva závodní psi, běží v blátě.	Muž jde do vody.	0.0
+695	Mladý chlapec skákající do bazénu, kde je zákaz skákání.	Chlapec skáče do bazénu, zatímco plavčík dává pozor.	3.2
+696	Černý pes s modrým obojkem běží ve sněhu.	Černý pes v modrém obojku běží sněhem.	5.0
+697	Černobílý pes běžící vodou.	Černobílý pes běžící trávou.	2.6
+698	Pes běží naproti kameře.	Hnědobílý pes běžící na trávě.	0.8
+699	Tři psi běžící v blátě.	Žlutý pes běží po blátivé cestě.	1.4
+700	Chlapec houpající se na houpačce.	Dívka je na houpačce.	2.4
+701	Skupinka mladíků plave v jezeře.	Mnoho dětí si hraje a plave ve vodě.	4.4
+702	Modrý a bílý fotbalový tým hrající proti sobě.	Žena nahoře bez s namalovaným obličejem je pokrytá blátem.	0.0
+703	Dva psi běžící ve sněhu.	Pes ležící ve sněhu.	2.2
+704	Zlatý pes běží sněhem.	Smečka psího spřežení táhnoucí sáně městem.	1.4
+705	Hnědý pes se chystá chytit zelený létající talíř.	Hnědý pes čeká, až zelený létající talíř klesne, aby ho mohl chytit.	3.8
+706	Skateboardista na ulici ve městě.	Skateboardista ve vzduchu na velké, venkovní rampě.	2.6
+707	Čtyři děti na stoličkách u večeře.	Čtyři děti sedí na vysokých barových stoličkách u žlutošedého baru.	3.6
+708	Chlapec a bílý pes běžící v travnatém poli.	Chlapec a pes běžící na trávě.	4.4
+709	Černobílý pes plave ve velkém zeleném jezeře.	Černý pes rychle běží v mělké vodě.	2.2
+710	Dva velcí psi si hrají v travnatém poli.	Dva bílí psi společně běží.	2.2
+711	Dva chlapci hrající hru s fotbalovými vlajkami.	Dva chlapci hrají hru s fotbalovými vlajkami.	5.0
+712	Hnědočerný pes sprintuje přes sníh.	Černý pes rychle běží po zemi.	2.8
+713	Muž s batohem se dívá doleva.	Dospělý muž s batohem jde a dívá se doleva.	3.8
+714	Starší muž v modrém tričku drží umělecké plátno.	Černoch jde ve velkém městě vedle budovy.	0.0
+715	Dva hubení chlapci hrající si s pískem ve vodě.	Dva psi oklepávají vodu.	0.4
+716	Černobílý pes má doširoka otevřenou tlamu.	Černobílý pes, skáče do sněhu.	1.8
+717	Malý pes běží přes překážkovou dráhu.	Malý pes skákající přes překážku.	3.8
+718	Dívka skáče v skákacím hradě.	Dívka v kostýmu tancuje jako muž.	1.2
+719	Hnědý pes běžící skrz les.	Hnědý pes běží skrz trávu.	3.2
+720	Skupina lidí stojí u okna a něco sleduje.	Skupina lidí stojí a čeká, až něco uvidí.	3.4
+721	Pes skáče přes překážku na soutěži hbitosti.	Pes skákající přes překážkovou dráhu.	4.4
+722	Tři závodící lidi na bruslích.	Tři bruslaři za rohem.	3.2
+723	Bílý a černý chlapec stojí a mají ruce okolo toho druhého.	Dva mladí chlapci, jeden bílý a jeden černý, stojí a objímají se.	4.8
+724	Dvě soutěžící provádí jejich psi na psí show.	Dvě ženy provádí jejích psi na psí show.	4.8
+725	Dva muži na straně člunu.	Muž s dlouhými vlasy a s bradkou leží v trávě.	0.0
+726	Hnědobílý pes chytá tenisák stojící na zadních nohách.	Hnědobílý pes nese klacek v tlamě.	1.8
+727	Hnědý pes v běhu na trávě.	Hnědý pes běží trávou.	4.8
+728	Mokrý černý pes s červeným obojkem je v řece.	Černý pes s červeným obojkem brodící se vodou.	4.0
+729	Člověk jede na kole po stezce vedle lesa.	Malé dítě v žlutém tričku drží ruce na bocích.	0.4
+730	Žena v černých šatech se usmívá před stříbrným nákladním autem.	Dívka oblečená v černém topu se usmívá a za ní je stříbrné nákladní auto.	3.6
+731	Dívka hrající si v louži s bosýma nohama.	Dítě si hraje se dvěma bílými a černými husami.	0.6
+732	Dva lidé se procházejí u oceánu.	Dva muži v ovčí vlně a v kloboucích dívající se do kamery.	0.4
+733	Dvě malé dívky v růžové tancují.	Dvě dámy běžící pro zdraví na cestě v blízkosti nábřeží.	0.0
+734	Dvě děti cákající ve vodě.	Dva delfíni skákající do vody.	1.4
+735	Pes je na pláži kousek od míče.	Chlap jde na basketbalové hřiště dočasně vyřazené z provozu.	0.6
+736	Pes skáče přes hnědou trávu.	Dva psi skáčou přes trávu.	2.6
+737	Žena hrající si se dvěma chlapci v parku.	Žena a tři děti si hrají v parku.	3.2
+738	Pes se vynořuje z vody s klackem v tlamě.	Pes běží naproti kameře s klackem v tlamě.	2.4
+739	Tři psi hrající si ve sněhu.	Chlapec si hraje v písku.	0.8
+740	Žena v džínách hraje video hru před velkou obrazovkou.	Muž a žena pózují pro fotografa před postelí posypanou žlutými květinami.	0.4
+741	Dva lidé jdoucí po pobřeží při západu slunce.	Dva lidé jdoucí po pláží při západu slunce, aby varovali skupinu lidí.	3.0
+742	Muž v obleku tancuje s mladou dívkou před publikem.	Žena visí na modré látce, která drží na stromu.	0.2
+743	Tři děti hrající si na podlaze s hračkami.	Tři děti sedící na podlaze hrající si s několika hračkami.	4.2
+744	Pes nese vodítko v tlamě.	Načechraný pes nese černé vodítko v tlamě.	4.2
+745	Muž v džínách si hraje s míčem, zatímco žena stojící poblíž se dívá pryč.	Muž váže červenou pásku okolo ruky jiného muže na ulici.	0.0
+746	Černý pes běží sněhem.	Černohnědý pes běží sněhem.	4.0
+747	Žena v růžových bikinách leží na lehátku přikrytém růžovým ručníkem.	Žena v bílém tričku a černé sukni na tenisovém kurtě.	1.4
+748	Lyžař padá do sněhu.	Lyžař padá obličejem do sněhu.	4.0
+749	Pes s červenou hračkou v tlamě.	Hnědý pes nese klacek v tlamě.	2.2
+750	Dva hokejoví hráči zápasící na ledu.	Dva hokejoví hráči zápasí na ledu.	4.8
+751	Tři lidé stojí ve venkovní, skleněné stavbě.	Dívka stojí vysoko na plošině překážkové dráhy.	0.4
+752	Dva teriéři si hrají na dřevěné podlaze u nich doma.	Dvě štěňata si hrají s červenou gumovou hračkou na hřišti.	1.6
+753	Skupina lidí na shromáždění mávající americkými vlajkami.	Dav lidí na venkovní události.	2.4
+754	Dva psi běžící přes hřiště.	Dva psi si hrají na hřišti.	4.2
+755	Muž v šedém obleku zamykající kolo.	Muž a žena stojící na ulici města.	0.4
+756	Dva psi si hrají na dvorku.	Dva psi si hrají na trávě.	4.6
+757	Chlapec na skateboardu sjíždí zábradlí u schodů pomalovaných graffiti.	Skateboardista skáče přes překážku před bílým domem.	2.8
+758	Bílý pes běží skrz vodu na pláži.	Bílý pes běží skrz vodu na pobřeží.	4.6
+759	Muž v černé kožené bundě spí v metru.	Muž v černé kožené bundě, usnul ve veřejném dopravním prostředku.	4.6
+760	Pes skákající přes překážku.	Pes skáče přes překážku.	4.8
+761	Dva muži nastavují nějaké elektrické zařízení.	Dva psi zápasí na zemi ve sněhu.	0.0
+762	Černý pes jde po trávě s klackem v tlamě.	Chlapec drží síť s hadem kousek od země.	0.0
+763	Muž a žena foukají bubliny.	Muž a žena v brýlích foukají bubliny.	4.2
+764	Dívka běží se psem po suchém poli.	Šedý pes a žlutohnědý pes hrající si na travnatém poli.	2.2
+765	Dva psi hrající si ve sněhu.	Dva černí psi ve sněhu.	4.0
+766	Skateboardista provádí trik na potrubí.	Skateboardista se snaží udělat trik na domácky vyrobené rampě.	3.2
+767	Pes skáče z doku do vody.	Černý pes skáče z doku do vody.	4.0
+768	Skupina starších mužů jdoucí ulicí.	Pár jdoucí ulicí.	2.0
+769	Pes stojící ve sněhu vedle modrého plotu.	Tří psi si hrají v mělčině vedle skalnatého pobřeží.	2.2
+770	Černobílý pes běží přes pole.	Černobílý pes běží v trávě.	4.8
+771	Chlapec v černém mává rukama, zatímco ostatní jsou za ním na poli.	Muž v černém tričku jezdí na kolečkových bruslích kolem lavičky ve městě.	0.4
+772	Starší žena jede na kole po ulici ve městě.	Starší žena jdoucí do kopce přecházející ulici.	2.0
+773	Mladý chlapec mlátí do žlutého míče.	Malý pes skáče přes žlutý paprsek.	0.4
+774	Skupina mladých baletek je v tanečním studiu.	Skupina mladých dam v bikinách.	1.4
+775	Mladý chlapec v bílém tričku si hraje na travnaté pláni.	Žena si nechává dělat vlasy v salónu.	0.0
+776	Žena a muž jsou rozptýleni sluchátky.	Muž a žena odpočívající po cvičení.	1.2
+777	Dvě dívky jdoucí v oceánu.	Dvě dívky jdoucí po ulici.	1.8
+778	Chrt číslo dva běží po dráze.	Chrt s náhubkem běží po dráze.	4.0
+779	Muž a pes se hrají přetahovanou s lanem.	Muž tančí na barevné zdi.	0.4
+780	Mokré dítě se třese pod ručníkem u bazénu.	Mokré dítě se třese v ručníku před bazénem.	4.6
+781	Bílý pes běží na pláži.	Bílý pes běží po pláži.	5.0
+782	Šest psů běžících po písečné pláži.	Šest psů jdoucích vedle pláže.	3.4
+783	Muž se drží držadla ve vodě.	Muž se drží držadel ve vzduchu.	3.2
+784	Čtyři děti si hrají na trampolíně.	Čtyři děti skáčou na trampolíně.	4.6
+785	Bílí pes jdoucí ve sněhu.	Černo žluto hnědý pes jdoucí sněhem.	3.0
+786	Bílo hnědý pes běží přes trávu.	Tři psi běží na trávě.	3.2
+787	Chlapec jede dolů nafukovací skluzavkou.	Chlapec v červeném se klouže dolů nafukovací dráhou.	3.8
+788	Dva psi hrající si s míčem v louži.	Dva psi stojí v louži a jeden má žlutý tenisový míček.	3.8
+789	Tři psi si hrají ve vodě.	Tři psi běží ve sněhu.	1.4
+790	Dva psi hrající si ve sněhu.	Dvě děti hrající si se psem.	1.2
+791	Dívka dělá most na pláži.	Dívka dělající most na pláži.	4.8
+792	Loď vplouvá do divoké vody.	Muž na kajaku sjíždí divokou vodu.	2.6
+793	Dva psi aportují ve sněhu.	Dva psi si spolu hrají v trávě.	2.2
+794	Černo žluto hnědý pes stojící na poli kousek od stromů.	Bílý pes stojí u řeky a oklepává se do sucha.	1.8
+795	Dva surfaři jedoucí na malé vlně.	Dva surfaři provádí triky ve vlnách.	3.6
+796	Dva lidé jdoucí na pláži při západu slunce.	Dva lidé jdoucí po pobřeží při západu slunce.	5.0
+797	Tři psi si hrají v bílém sněhu.	Dva psi si hrají v trávě.	1.6
+798	Dvě štěňata hrající si kolem v trávě.	Dva psi zápasí v trávě.	4.0
+799	Mladá dívka sedí Santovi na klíně.	Malá dívka sedí Santovi na klíně.	4.8
+800	Černobílý pes běží s otevřenou tlamou.	Černobílý pes plave v modré vodě.	2.2
+801	Černý pes běžící do vody.	Černý pes běžící vodou.	4.6
+802	Mladý chlapec skákající do vzduchu na pláži.	Chlapec skákající do vzduchu na pláži.	4.8
+803	Pět mužů ve smokingu jde dolů po schodech.	Pět mužů ve smokingu jde dolů po schodišti.	5.0
+804	Muž v červených kraťasech a bílém tričku vykopávající fotbalový míč.	Černý pes na surfu držící červený gumový míč.	0.0
+805	Muž a pes na skalnatém mořském pobřeží.	Muž a pes stojící na kamenech vedle vody.	4.8
+806	Hnědý pes cachtající se ve vodě.	Čtyři psi cachtající se ve vodě.	2.4
+807	Smějící se žena je na pláži pohřbená v mořských řasách.	Dívka v kovbojském klobouku s ovcí na vodítku.	1.0
+808	Pes s velkýma ušima drží malý klacek v tlamě.	Štěně s velkýma ušima žvýkající klacek.	3.8
+809	Velký hnědý pes skáče skrz vysokou trávu.	Dívka oblečená v modrém tričku běží skrz vědecké centrum.	0.0
+810	Dva psi bojující ve sněhu.	Dva psi hrající si ve sněhu.	2.6
+811	Hnědý pes je uprostřed řady psů pronásledujících špinavý tenisový míč přes bláto.	Jsou tam dva bílí a jeden hnědý pes pronásledující míč.	2.8
+812	Chrt je aktivní na travnatém hřišti.	Skupina kol závodících na dráze.	0.0
+813	Dva lidé na motorce a sajdkáře závodí v bahně.	Pes nesoucí dlouhý klacek v tlamě.	0.0
+814	Muž v červených plavkách hrající volejbal.	Muž a žena sedící na motorce.	0.0
+815	Muž a žena jdoucí kolem obchodu s hudbou.	Muž a žena líbající se před davem lidí.	0.2
+816	Muž sedí na vrcholku skalnaté hory.	Člověk vystrkuje hlavu ze stanu na vrcholu hory.	2.4
+817	Dva lidé v kombinézách ležící ve sněhu dělající andělíčky.	Dvě dětí ležící ve sněhu dělající andělíčky.	3.8
+818	Malá blondýnka stojí před fontánou.	Mladá dívka stojící před fontánou.	4.0
+819	Muž stojící na lodi přitahující druhou loď bambusovou holí.	Muž v černém klobouku stojící před cihlovou zdí a značkou.	0.0
+820	Muž hraje na bílou kytaru.	Muž hrající na bílou kytaru a zpívající k tomu.	3.2
+821	Člověk na lyžích se nechává táhnout psy na horách.	Hnědý pes si hraje s míčem ve vodě.	0.0
+822	Dva mladí lidé bez trička, hrající si ve vodě.	Mnoho lidí si hraje ve vodě na pláži.	2.4
+823	Detail kolibříka.	Detail letícího kolibříka.	3.6
+824	Dva psi si hrají v trávě.	Dva žlutohnědí psi si hrají ve sněhu.	2.6
+825	Žena v černých šatech jdoucí po ulici.	Žena sleduje psa, jak skáče ze schodů.	0.8
+826	Tři děti zápasí na květinovém koberci.	Tři děti hrající si na podlaze.	3.8
+827	Chlapec v červeném skákající do pískoviště.	Pes plavající v rybníku.	0.0
+828	Muž a žena dívající se do kamery.	Smějící se muž a žena.	2.33
+829	Pes skáče do vody.	Pes skáče do vody.	5.0
+830	Hnědý pes běžící špinavou blátivou trávou.	Velký hnědý pes běží venku ve špíně.	3.6
+831	Tři psi táhnoucí muže na kole sněhem.	Psi táhnou muže na kole skrz sníh.	5.0
+832	Chlapec houpající se na houpačce.	Mladý chlapec houpající se na houpačce.	4.8
+833	Černý pes běžící sněhem.	Černý pes běžící vodou.	2.4
+834	Miminko v červené čepici sedící v kočárku, drží panenku.	Muž v šedém tričku sedící v poli květin.	0.0
+835	Tři děti si venku hrají se senem, házející ho na čočku od foťáku.	Tři mladé děti si hrají se senem, házející ho na fotoaparát.	4.8
+836	Černý pes jdoucí vedle bazénu.	Černý pes jde po straně bazénu.	5.0
+837	Lezec stojí na skále s obličejem vedle růžového lana.	Děti běžící ve sněhu s ohradami v pozadí.	0.0
+838	Usmívající se muž je oblečený v černém tričku a klobouku.	Muž zvedá malou dívku nad hlavu.	0.0
+839	Černý pes s nasazeným oranžovým obojkem je zapletený v rybářském vlasci.	Černý pes s nasazeným červeným obojkem ze sebe oklepává vodu.	1.8
+840	Mokrý, zlatosrstý pes nese klacek na pobřeží.	Mokrý, hnědý pes má klacek v tlamě a běží v písku kousek od vody.	3.6
+841	Muž a žena jedou po ulici na kolech.	Muž a žena jedou přes křižovatku ve městě na kolech.	3.6
+842	Muž a pes na kamenech na pláži.	Muž a pes na kamenném mořském břehu.	4.6
+843	Dva psi si kolem hrají v blátě.	Tanečnice v červenobílých šatech pózující pro kameru.	0.0
+844	Velká skupina lidí stojících venku před budovou.	Skupina lidí bruslí ve velkém městě.	2.0
+845	Zlatosrstý pes běží na trávě.	Velký béžový pes běží trávou.	3.4
+846	Pes běží trávou.	Pes běží přes trávu.	4.8
+847	Muž v červených kraťasech nesoucí hůl jde podél kamenů u řeky.	Muž jde po kamenech kolem, kterých protéká voda.	3.4
+848	Muž veslující na lodi.	Muž dělající triky na skateboardu.	0.0
+849	Tři psi běžící na závodní dráze.	Tří psi krouží po závodní dráze.	4.8
+850	Černohnědý pes jde sněhem nedaleko budovy.	Starší muž stojí venku před starou zabedněnou budovou.	0.8
+851	Pes skáče do plaveckého bazénu za kachnou.	Pes skákající do plaveckého bazénu.	3.4
+852	Pes běžící lesem v zimě.	Pes běžící skrz hodně větviček.	3.2
+853	Dívka si hraje s obrázky na velké obrazovce.	Tři dívky držící deštníky jsou natočeny zády k fotoaparátu.	0.4
+854	Mnoho lidí závodí v ulicích.	Štěně běžící po ulici.	1.0
+855	Dva psi ve sněhu.	Dva psi si hrají v trávě.	2.4
+856	Muž v pánských plavkách stojí naproti nějaké skále.	Muž v šedém tričku leze po velké skalní stěně.	1.0
+857	Dva bílí psi jdoucí ve sněhu.	Žluto hnědý pes s černým obojkem štěkající ve sněhu.	2.0
+858	Žena oblečená v růžovém tričku skáče do vzduchu s roztaženýma rukama a nohama.	Muž v kšandách a slunečních brýlích vyskakuje do vzduchu s roztaženýma rukama a nohama.	2.4
+859	Pes běží trávou.	Dva psi běží křovím.	2.8
+860	Tři psi hrající si ve sněhu.	Tři psi běží ve sněhu.	4.2
+861	Pes běžící přes písek.	Pes běžící vodou.	2.8
+862	Chlapec v oranžovém tričku hází míč.	Černobílý pes s náhubkem vyskakuje nad trávu.	0.2
+863	Žena se pokouší jet na malé vlně.	Muž a žena sedící venku na sluníčku zády k sobě.	0.0
+864	Černobílý pes plave v řece.	Černoch a jeho pes na pláži.	0.6
+865	Muž stojící na vrcholu rozeklané skály poblíž oceánu.	Muž stojí na vrcholu skály s výhledem na oceán.	4.6
+866	Dívka v černomodrém neoprenu surfuje.	Žena oblečená v černomodrém pruhovaném obleku surfuje na vlně.	4.4
+867	Žena vede psa skrz překážkovou dráhu.	Žena vedoucí jejího malého psa skrz překážkovou dráhu.	4.6
+868	Několik lidí v noci sedí okolo ohně.	Skupina lidí v noci sedí kolem planoucího ohně.	4.2
+869	Dva psi běží v poli.	Dva psi běžící v poli.	5.0
+870	Dva lidé jsou v posteli.	Dva boxeři jsou v ringu.	0.0
+871	Dva psi na pláži.	Pes jde na pláži.	2.4
+872	Mladý chlapec stojí na šedivé keramické dlažbě.	Mladý chlapec procvičující karate v tělocvičně.	1.0
+873	Dva psi bojující ve sněhu.	Dva psi si hrají ve sněhu.	3.2
+874	Skupina lidí je ve vodě.	Skupina lidí jede závod.	0.6
+875	Pes běží s jídlem v tlamě.	Pes běží se žlutým míčem v tlamě.	2.2
+876	Dva psi sbíhají po pláži.	Dva psi běžící na pláži.	4.8
+877	Černobílý pes plavající v bazénu.	Černobílý pes běžící s něčím v tlamě.	2.0
+878	Dva psi čuchají k něčemu v kamení.	Dva psi běžící po cestě v lese.	1.6
+879	Pes, má hlavu uvnitř červenozelené dárkové tašky.	Mazlíček hravě prozkoumává obsah dárkové tašky.	3.8
+880	Muž ve žlutém tričku na obličeji se zlatou sluneční maskou.	Muž ve žlutém tričku má na sobě zlatou masku ve tvaru slunce.	5.0
+881	Muž na laně leze po strmé skále.	Mladý muž skáče na fialovém snowboardu.	0.4
+882	Dítě s rukama na jeho hlavě.	Malý chlapec stojí s rukama na vršku jeho hlavy.	4.2
+883	Muž oblečený v oranžové vestě jede na kánoi v modré vodě.	Muž v oranžové bundě v písku zvedající ruce k nebi.	1.8
+884	Černý pes leží v písku.	Děti si hrají ve vodě.	0.0
+885	Světlehnědý pes šťastně běží po cestě.	Bledý pes sbíhá po cestě.	3.4
+886	Starý muž v černém trikotu stojící na tržišti.	Dítě na sobě s červeným tričkem jdoucí po náměstí.	1.2
+887	Muž oblečený v černém oblečení, klobouku a brýlích před červenou zdí.	Žena v bílém tričku stojící před cihlovou zdí.	1.4
+888	Muž učí chlapce jezdit na kole.	Ten muž učí chlapce jezdit na kole.	4.8
+889	Zrzavá žena v černém pózuje pro muže, který odpočívá na stromě.	Muž v černém tričku drží dítě, které má sluneční brýle.	0.0
+890	Muž lezoucí po útesu.	Muž leze po strmém útesu.	4.8
+891	Dva psi aportují ve sněhu.	Dva psi si hrají ve sněhu.	4.0
+892	Dvě dívky jsou v kalhotách od pyžama a vypadá to, že tancují.	Dvě dívky v kšiltovkách jí venku svačinu.	0.6
+893	Bílo hnědý pes hrající si s černou hračkou.	Bílo hnědý pes se přetahuje na laně.	3.4
+894	Dva černí psi skáčou ve sněhu a hrají si se žlutým tenisákem.	Hnědý a černý pes hrající si se žlutým fotbalovým míčem.	2.0
+895	Dva psi si společně hrají na pláži.	Dva černí psi si hrají v trávě.	3.0
+896	Chlapec hraje baseball.	Muž hraje baseball.	3.0
+897	Černobílý pes skáče přes překážku.	Bílý pes běžící přes most.	2.0
+898	Chlapec, který má na sobě červené tričko, běží přes trávu se zuřivým psem.	Sportovní fanoušek s pomalovaným obličejem stojí v písku.	0.0
+899	Černý pes aportuje ve sněhu.	Skateboardista skákající na ulici.	0.0
+900	Usmívající se muž a holčička pózující pro fotku.	Usmívající se muž drží malé dítě oblečené v růžové a červené.	3.2
+901	Dva žluto hnědo bílí psi a jeden žlutohnědý pes závodí po pláži kousek od vody.	Dáma v růžové bundě se Zvonilkou stojí vedle zábradlí a sleduje vodu.	0.2
+902	Pes ve sněhu skákající pro létající talíř.	Pes skáče ve sněhu.	3.2
+903	Muž jede na kole po blátivé cestě.	Dva psi, běžící po blátivé cestě.	1.6
+904	Hnědobílý pes s růžovým obojkem ve sněhu štěká na hnědého psa s modrým obojkem.	Pes s červeným obojkem cení zuby na psa s modrým obojkem.	3.4
+905	Hnědobílý pes běží vodou.	Dva psi, běžící vodou.	4.6
+906	Mladý sedící muž v klobouku si čte v kavárně.	Žena, kterou těší čtení v kavárně.	4.4
+907	Černobílý pes běží trávou.	Černobílý pes běží na trávě.	4.8
+908	Dva hnědí psi se navzájem koušou.	Dva hnědí psi v písku kousající se navzájem.	4.2
+909	Skateboardista se pokouší udělat trik na kraji nízké zdi.	Chlapec na zábradlí dělá triky se skateboardem.	4.0
+910	Mladá dívka dělající salto pozadu do vody.	Mladá dívka ve fialovém běžící vodou.	2.8
+911	Snowboardista jede dolů po zábradlí vedle schodiště.	Chlapec jede na hraně skateboardu po betonové zdi.	0.8
+912	Černý pes vyskakuje z vody.	Černý pes ze sebe oklepává vodu.	3.0
+913	Žena a dva muži v čepicích seznamující se venku.	Mladá žena v pletené čepici stojí naproti zdi od obchodu s pizzou.	1.4
+914	Malý chlapec v županu sedí na kovové židli.	Chlapec v županu sedí na židli.	4.2
+915	Černý pes běží sněhem.	Černý pitbul běží blátem.	2.2
+916	Skupina teenagerů tancuje na dřevěné podlaze.	Skupina lidí v tmavém oblečení tancuje v řadě na dřevěné podlaze.	3.4
+917	Žena stojí s pažemi podél boků, zatímco jiná žena fotí.	Muž stojící v davu držící bílý objekt.	0.4
+918	Mladý chlapec jede na kole.	Mladá dívka ležící na modré nafukovací hračce.	0.4
+919	Černý pes běžící ve sněhu.	Černý pes běžící na pláži.	1.8
+920	Tři psi ve sněhu u ohrady.	Dva psi pijí vodu v jezeře.	1.0
+921	Dívka se dvěma černými psi běží podél břehu řeky.	Malý chlapec se mazlí s tygrem, který leží na zemi.	0.2
+922	Muž lezoucí po skalní stěně.	Muž leze po skalní stěně.	4.6
+923	Mladistvá dívka běžící po pláži křičí, za ní jde starší muž.	Mladé dítě běžící podél pobřeží na pláži.	1.8
+924	Žena hrající tenis a trefující míček.	Žena hraje volejbal.	2.0

@@ -1,3 +1,4 @@
+index	genre	year	old_index   similarity	sentence1	sentence2
 main-captions	MSRvid	2012test	0001	5.000	A plane is taking off.	An air plane is taking off.
 main-captions	MSRvid	2012test	0004	3.800	A man is playing a large flute.	A man is playing a flute.
 main-captions	MSRvid	2012test	0005	3.800	A man is spreading shreded cheese on a pizza.	A man is spreading shredded cheese on an uncooked pizza.
