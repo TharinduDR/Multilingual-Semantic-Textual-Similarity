@@ -5,17 +5,6 @@ This project catalogues the datasets annotated for semantic textual similarity. 
 
 
 
-## Acknowledgement
-We would like to acknowledge following researchers who helped us with the error analysis.
-
-1. Claudia Schmitt Baeza
-2. Ana Isabel Cespedosa
-3. Maria Ferragud Ferragud
-4. Marie Escribe
-5. Marie Picot
-6. Rocío Caro Quintana
-7. Chrisse Amelie Soukai
-
 
 ## Citation
 If you use these resources, please cite (and read!) our paper:
